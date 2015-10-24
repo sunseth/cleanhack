@@ -48,6 +48,25 @@ module.exports = (app) ->
       .attr("height", height)
       .style("margin", "10px auto")
 
+      legend = svg.selectAll("g.legend")
+        .data(ext_color_domain)
+        .enter().append("g")
+        .attr("class", "legend")
+
+      ls_w = 20
+      ls_h = 20
+      legend.append("rect")
+        .attr("x", 20)
+        .attr("y", (d, i) -> return height - (i*ls_h) - 2*ls_h)
+        .attr("width", ls_w)
+        .attr("height", ls_h)
+        .style("fill", (d, i) -> return color(d))
+        .style("opacity", 0.8)
+      legend.append("text")
+        .attr("x", 50)
+        .attr("y", (d, i) -> return height - (i*ls_h) - ls_h - 4)
+        .text((d, i) -> return legend_labels[i])
+
       path = d3.geo.path()
 
       ready = (error, us) =>
