@@ -1,0 +1,76 @@
+{
+  "name": "cleanhack",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sunseth/cleanhack",
+  "authors": [
+    "Seth <sunseth@berkeley.edu>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "angular": "~1.3.2",
+    "underscore": "~1.7.0",
+    "moment": "~2.8.3",
+    "angular-loading-bar": "~0.6.0",
+    "angular-animate": "~1.3.2",
+    "semantic-ui": "~2.1.4",
+    "angular-cookies": "~1.3.11",
+    "base64": "~0.3.0",
+    "polymer-mutationobserver": "~1.2",
+    "angular-slider": "~0.2.14",
+    "xdomain": "~0.6.17"
+  },
+  "overrides": {
+    "angular-slider": {
+      "main": [
+        "slider.css",
+        "slider.js"
+      ]
+    },
+    "xdomain": {
+      "main": [
+        "dist/xdomain.min.js"
+      ]
+    },
+    "base64": {
+      "main": [
+        "base64.js"
+      ]
+    },
+    "semantic-ui": {
+      "main": [
+        "dist/semantic.js",
+        "dist/semantic.min.css",
+        "dist/themes/default/assets/fonts/icons.woff",
+        "dist/themes/default/assets/images/flags.png"
+      ]
+    },
+    "polymer-mutationobserver": {
+      "main": [
+        "dist/mutationobserver.js"
+      ]
+    },
+    "moment": {
+      "main": [
+        "moment.js"
+      ]
+    },
+    "jquery": {
+      "main": [
+        "dist/jquery.js"
+      ]
+    },
+    "angular": {
+      "main": [
+        "angular.js"
+      ]
+    }
+  }
+}
