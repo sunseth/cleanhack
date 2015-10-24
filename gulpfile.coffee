@@ -27,17 +27,26 @@ input =
   angular: "#{__dirname}/source/angular/index.coffee"
   bower: "#{__dirname}/bower_components"
   semantic: "#{__dirname}/public/vendor/semantic-ui/dist/*.css"
+  images: "#{__dirname}/source/images/*"
 
 output =
   css: "#{__dirname}/public/css"
   js: "#{__dirname}/public/js"
   vendor: "#{__dirname}/public/vendor"
   semantic: "#{__dirname}/public/vendor/semantic-ui/dist"
+  images: "#{__dirname}/public/images"
 
 gulp.task 'css', ->
   gulp.src input.css
     .pipe concat('style.css')
     .pipe gulp.dest(output.css)
+
+gulp.task 'images', ->
+  gulp.src input.images
+    .pipe(imagemin({
+      progressive: true
+    }))
+    .pipe(gulp.dest(output.images))
 
 gulp.task 'bower', ->
   files = bowerFiles()
@@ -90,4 +99,4 @@ gulp.task 'nodemon', ['build'], ->
     ]
 
 gulp.task 'serve', ['nodemon', 'watch']
-gulp.task 'build', ['css', 'bower', 'coffee']
+gulp.task 'build', ['css', 'bower', 'coffee', 'images']
