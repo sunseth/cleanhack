@@ -1,5 +1,5 @@
 
 
-app = angular.module 'bercathon'
+app = angular.module 'bercathon', []
 
 require('./controllers')(app)

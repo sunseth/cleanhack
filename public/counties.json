@@ -1,0 +1,1242 @@
+{"_id":{"$oid":"562b47a674cfdab849634122"},"name":"Fayette","state":"Alabama","fips":1057,"sulfur":7465.21999603915,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634123"},"name":"Cherokee","state":"Alabama","fips":1019,"sulfur":2418.2634239,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634124"},"name":"Tallapoosa","state":"Alabama","fips":1123,"sulfur":10.1,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634125"},"name":"Shelby","state":"Alabama","fips":1117,"sulfur":95334.435865,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634126"},"name":"Marengo","state":"Alabama","fips":1091,"sulfur":271.439,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634127"},"name":"Chilton","state":"Alabama","fips":1021,"sulfur":17.455000000000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634128"},"name":"Morgan","state":"Alabama","fips":1103,"sulfur":135781.65528164903,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634129"},"name":"Talladega","state":"Alabama","fips":1121,"sulfur":4894.91,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963412a"},"name":"Montgomery","state":"Alabama","fips":1101,"sulfur":9457.3842018789,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963412b"},"name":"Jefferson","state":"Alabama","fips":1073,"sulfur":245831.23305026063,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963412c"},"name":"Choctaw","state":"Alabama","fips":1023,"sulfur":14095.133,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963412d"},"name":"DeKalb","state":"Alabama","fips":1049,"sulfur":299.37630839637,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963412e"},"name":"Washington","state":"Alabama","fips":1129,"sulfur":18241.295855349978,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963412f"},"name":"Winston","state":"Alabama","fips":1133,"sulfur":4.57,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634130"},"name":"Clarke","state":"Alabama","fips":1025,"sulfur":377.261,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634131"},"name":"Monroe","state":"Alabama","fips":1099,"sulfur":117144.11836137692,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634132"},"name":"Lamar","state":"Alabama","fips":1075,"sulfur":4068.8035,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634133"},"name":"Mobile","state":"Alabama","fips":1097,"sulfur":18205.8363172932,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634134"},"name":"Conecuh","state":"Alabama","fips":1035,"sulfur":39.77,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634135"},"name":"St. Clair","state":"Alabama","fips":1115,"sulfur":62049.601494999995,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634136"},"name":"Tuscaloosa","state":"Alabama","fips":1125,"sulfur":645.325,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634137"},"name":"Cullman","state":"Alabama","fips":1043,"sulfur":13.29,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634138"},"name":"Russell","state":"Alabama","fips":1113,"sulfur":9355.9883416,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634139"},"name":"Etowah","state":"Alabama","fips":1055,"sulfur":3903.8,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963413a"},"name":"Walker","state":"Alabama","fips":1127,"sulfur":9926.859999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963413b"},"name":"Barbour","state":"Alabama","fips":1005,"sulfur":127.30000000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963413c"},"name":"Jackson","state":"Alabama","fips":1071,"sulfur":48600.86925066809,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963413d"},"name":"Coosa","state":"Alabama","fips":1037,"sulfur":2.708,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963413e"},"name":"Calhoun","state":"Alabama","fips":1015,"sulfur":1402.0989219,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963413f"},"name":"Escambia","state":"Alabama","fips":1053,"sulfur":19660.6064255522,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634140"},"name":"Lee","state":"Alabama","fips":1081,"sulfur":1089.2066383995,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634141"},"name":"Madison","state":"Alabama","fips":1089,"sulfur":13804.110747727898,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634142"},"name":"Colbert","state":"Alabama","fips":1033,"sulfur":18487.805345,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634143"},"name":"Dallas","state":"Alabama","fips":1047,"sulfur":1119.6271146648999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634144"},"name":"Baldwin","state":"Alabama","fips":1003,"sulfur":14.839,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634145"},"name":"Covington","state":"Alabama","fips":1039,"sulfur":47.72,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634146"},"name":"Bibb","state":"Alabama","fips":1007,"sulfur":791.3681500000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634147"},"name":"Hale","state":"Alabama","fips":1065,"sulfur":84.6933,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634148"},"name":"Dale","state":"Alabama","fips":1045,"sulfur":2.8254824793999997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634149"},"name":"Lowndes","state":"Alabama","fips":1085,"sulfur":979.2957663729001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963414a"},"name":"Lauderdale","state":"Alabama","fips":1077,"sulfur":61.78,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963414b"},"name":"Marion","state":"Alabama","fips":1093,"sulfur":28599.289983015202,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963414c"},"name":"Autauga","state":"Alabama","fips":1001,"sulfur":2833.116,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963414d"},"name":"Chambers","state":"Alabama","fips":1017,"sulfur":75.5332,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963414e"},"name":"Greene","state":"Alabama","fips":1063,"sulfur":42315.931776711,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963414f"},"name":"Sumter","state":"Alabama","fips":1119,"sulfur":775.51423158,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634150"},"name":"Wilcox","state":"Alabama","fips":1131,"sulfur":1156.26,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634151"},"name":"Clay","state":"Alabama","fips":1027,"sulfur":3210.0499824643002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634152"},"name":"Randolph","state":"Alabama","fips":1111,"sulfur":38713.3824413,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634153"},"name":"Butler","state":"Alabama","fips":1013,"sulfur":7704.373095000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634154"},"name":"Pike","state":"Alabama","fips":1109,"sulfur":47321.43190090001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634155"},"name":"Marshall","state":"Alabama","fips":1095,"sulfur":41760.15159845,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634156"},"name":"Lawrence","state":"Alabama","fips":1079,"sulfur":53373.834215629984,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634157"},"name":"Anchorage","state":"Alaska","fips":2020,"sulfur":228.04576306044,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634158"},"name":"Kenai Peninsula","state":"Alaska","fips":2122,"sulfur":729.1830375484001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634159"},"name":"Dillingham","state":"Alaska","fips":2070,"sulfur":2.530364398,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963415a"},"name":"Yukon-Koyukuk","state":"Alaska","fips":2290,"sulfur":75.9139815376,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963415b"},"name":"Nome","state":"Alaska","fips":2180,"sulfur":19.7291319663,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963415c"},"name":"North Slope","state":"Alaska","fips":2185,"sulfur":977.6876308198999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963415d"},"name":"Prince of Wales-Hyder","state":"Alaska","fips":2198,"sulfur":38.770277831553,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963415e"},"name":null,"state":null,"fips":null,"sulfur":58.842694,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963415f"},"name":"Bristol Bay","state":"Alaska","fips":2060,"sulfur":5.6630443289,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634160"},"name":"Fairbanks North Star","state":"Alaska","fips":2090,"sulfur":2513.8846646552997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634161"},"name":"Southeast Fairbanks","state":"Alaska","fips":2240,"sulfur":25.81,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634162"},"name":"Hoonah-Angoon","state":"Alaska","fips":2105,"sulfur":13.356572263851,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634163"},"name":"Wrangell","state":"Alaska","fips":2275,"sulfur":9.7863724154,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634164"},"name":"Juneau","state":"Alaska","fips":2110,"sulfur":15.8552478733,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634165"},"name":"Valdez-Cordova","state":"Alaska","fips":2261,"sulfur":171.0908636681,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634166"},"name":"Lake and Peninsula","state":"Alaska","fips":2164,"sulfur":1.05538590462,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634167"},"name":"Northwest Arctic","state":"Alaska","fips":2188,"sulfur":20.0897405433,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634168"},"name":"Ketchikan Gateway","state":"Alaska","fips":2130,"sulfur":56.2527185921,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634169"},"name":"Denali","state":"Alaska","fips":2068,"sulfur":664.72,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963416a"},"name":"Petersburg","state":"Alaska","fips":2195,"sulfur":4.5143553716,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963416b"},"name":"Bethel","state":"Alaska","fips":2050,"sulfur":68.0409613491,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963416c"},"name":"Sitka","state":"Alaska","fips":2220,"sulfur":3.0663980798,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963416d"},"name":"Kodiak Island","state":"Alaska","fips":2150,"sulfur":3.4270173382,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963416e"},"name":"Aleutians West","state":"Alaska","fips":2016,"sulfur":1.2,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963416f"},"name":"Yakutat","state":"Alaska","fips":2282,"sulfur":2.4423896324000003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634170"},"name":"Aleutians East","state":"Alaska","fips":2013,"sulfur":129.17000000000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634171"},"name":"Pinal","state":"Arizona","fips":4021,"sulfur":40.19290673999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634172"},"name":"Navajo","state":"Arizona","fips":4017,"sulfur":9702.55256814158,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634173"},"name":"Mohave","state":"Arizona","fips":4015,"sulfur":10.6684204685,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634174"},"name":"Maricopa","state":"Arizona","fips":4013,"sulfur":382.869208502102,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634175"},"name":"Pima","state":"Arizona","fips":4019,"sulfur":2235.3339596165,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634176"},"name":"La Paz","state":"Arizona","fips":4012,"sulfur":2.382133,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634177"},"name":"Apache","state":"Arizona","fips":4001,"sulfur":13401.74220136,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634178"},"name":"Graham","state":"Arizona","fips":4009,"sulfur":27.216399715,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634179"},"name":"Yavapai","state":"Arizona","fips":4025,"sulfur":1996.0016607979999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963417a"},"name":"Coconino","state":"Arizona","fips":4005,"sulfur":7.305754901,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963417b"},"name":"Yuma","state":"Arizona","fips":4027,"sulfur":16.6831014628,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963417c"},"name":"Gila","state":"Arizona","fips":4007,"sulfur":31866.449,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963417d"},"name":"Greenlee","state":"Arizona","fips":4011,"sulfur":48.529254907158,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963417e"},"name":"Cochise","state":"Arizona","fips":4003,"sulfur":3920.393378,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963417f"},"name":"Craighead","state":"Arkansas","fips":5031,"sulfur":84.61528929400001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634180"},"name":"Sebastian","state":"Arkansas","fips":5131,"sulfur":136.8580820707,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634181"},"name":"Woodruff","state":"Arkansas","fips":5147,"sulfur":36.6277,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634182"},"name":"Conway","state":"Arkansas","fips":5029,"sulfur":143.85999999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634183"},"name":"Hempstead","state":"Arkansas","fips":5057,"sulfur":4.99,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634184"},"name":"Ouachita","state":"Arkansas","fips":5103,"sulfur":780.6425859477,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634185"},"name":"Scott","state":"Arkansas","fips":5127,"sulfur":12013.51947826337,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634186"},"name":"Hot Spring","state":"Arkansas","fips":5059,"sulfur":57.30587379,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634187"},"name":"Mississippi","state":"Arkansas","fips":5093,"sulfur":3575.7304120100002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634188"},"name":"Desha","state":"Arkansas","fips":5041,"sulfur":49.85428472657,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634189"},"name":"Pulaski","state":"Arkansas","fips":5119,"sulfur":18487.468361157098,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963418a"},"name":"Union","state":"Arkansas","fips":5139,"sulfur":1518.4154110359998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963418b"},"name":"Ashley","state":"Arkansas","fips":5003,"sulfur":344.82191600000004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963418c"},"name":"Columbia","state":"Arkansas","fips":5027,"sulfur":26584.917091385003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963418d"},"name":"Independence","state":"Arkansas","fips":5063,"sulfur":33845.73388,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963418e"},"name":"Franklin","state":"Arkansas","fips":5047,"sulfur":58931.980764367385,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963418f"},"name":"Izard","state":"Arkansas","fips":5065,"sulfur":4.14,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634190"},"name":"Howard","state":"Arkansas","fips":5061,"sulfur":8792.378848,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634191"},"name":"Little River","state":"Arkansas","fips":5081,"sulfur":2043.0147491000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634192"},"name":"Pope","state":"Arkansas","fips":5115,"sulfur":140.47979999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634193"},"name":"Clark","state":"Arkansas","fips":5019,"sulfur":10130.783635952803,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634194"},"name":"Grant","state":"Arkansas","fips":5053,"sulfur":27805.86292795795,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634195"},"name":"Yell","state":"Arkansas","fips":5149,"sulfur":3.97,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634196"},"name":"Benton","state":"Arkansas","fips":5007,"sulfur":9466.091319333496,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634197"},"name":"Crittenden","state":"Arkansas","fips":5035,"sulfur":19.984099999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634198"},"name":"Saline","state":"Arkansas","fips":5125,"sulfur":842.0765351282,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634199"},"name":"Arkansas","state":"Arkansas","fips":5001,"sulfur":86.824,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963419a"},"name":"Bradley","state":"Arkansas","fips":5011,"sulfur":26.46,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963419b"},"name":"Los Angeles","state":"California","fips":6037,"sulfur":3818.751020019118,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963419c"},"name":"Alameda","state":"California","fips":6001,"sulfur":403.9376420513,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963419d"},"name":"Humboldt","state":"California","fips":6023,"sulfur":3643.9548388238504,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963419e"},"name":"Contra Costa","state":"California","fips":6013,"sulfur":4463.0094500000005,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963419f"},"name":"Kern","state":"California","fips":6029,"sulfur":2143.3457338226,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341a0"},"name":"Monterey","state":"California","fips":6053,"sulfur":64.68037498300001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341a1"},"name":"Orange","state":"California","fips":6059,"sulfur":14887.751237781953,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341a2"},"name":"San Bernardino","state":"California","fips":6071,"sulfur":1394.9204789621072,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341a3"},"name":"Sonoma","state":"California","fips":6097,"sulfur":18.479393616,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341a4"},"name":"Stanislaus","state":"California","fips":6099,"sulfur":373.81758218,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341a5"},"name":"Ventura","state":"California","fips":6111,"sulfur":68.07699519839957,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341a6"},"name":"Napa","state":"California","fips":6055,"sulfur":4.3870000000000005,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341a7"},"name":"San Joaquin","state":"California","fips":6077,"sulfur":798.9187463575,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341a8"},"name":"Sutter","state":"California","fips":6101,"sulfur":2.09,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341a9"},"name":"Santa Clara","state":"California","fips":6085,"sulfur":598.0320949070999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341aa"},"name":"Yolo","state":"California","fips":6113,"sulfur":52.45,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341ab"},"name":"San Diego","state":"California","fips":6073,"sulfur":189.0753537624,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341ac"},"name":"Plumas","state":"California","fips":6063,"sulfur":44.015238,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341ad"},"name":"Riverside","state":"California","fips":6065,"sulfur":112.2789055705735,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341ae"},"name":"Fresno","state":"California","fips":6019,"sulfur":411.69344108229996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341af"},"name":"Imperial","state":"California","fips":6025,"sulfur":14.6838,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341b0"},"name":"Shasta","state":"California","fips":6089,"sulfur":50.197330008,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341b1"},"name":"Kings","state":"California","fips":6031,"sulfur":170.32551684999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341b2"},"name":"Merced","state":"California","fips":6047,"sulfur":25.836340971,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341b3"},"name":"Madera","state":"California","fips":6039,"sulfur":95.9806214,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341b4"},"name":"Santa Barbara","state":"California","fips":6083,"sulfur":231.28228449649998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341b5"},"name":"Placer","state":"California","fips":6061,"sulfur":37.5416906,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341b6"},"name":"Tulare","state":"California","fips":6107,"sulfur":86.94854385199999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341b7"},"name":"Lake","state":"California","fips":6033,"sulfur":88991.869080568,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341b8"},"name":"Colusa","state":"California","fips":6011,"sulfur":120.1822,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341b9"},"name":"Lassen","state":"California","fips":6035,"sulfur":45.2,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341ba"},"name":"Tehama","state":"California","fips":6103,"sulfur":8.490499999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341bb"},"name":"Solano","state":"California","fips":6095,"sulfur":4081.0389999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341bc"},"name":"Santa Cruz","state":"California","fips":6087,"sulfur":9.4237792,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341bd"},"name":"Sacramento","state":"California","fips":6067,"sulfur":107.6112119186,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341be"},"name":"Tuolumne","state":"California","fips":6109,"sulfur":47.07,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341bf"},"name":"Amador","state":"California","fips":6005,"sulfur":19.682,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341c0"},"name":"San Francisco","state":"California","fips":6075,"sulfur":13.763,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341c1"},"name":"Inyo","state":"California","fips":6027,"sulfur":26.3,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341c2"},"name":"San Luis Obispo","state":"California","fips":6079,"sulfur":156.72471612099997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341c3"},"name":"Marin","state":"California","fips":6041,"sulfur":52.166000000000004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341c4"},"name":"Yuba","state":"California","fips":6115,"sulfur":18.62951,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341c5"},"name":"Butte","state":"California","fips":6007,"sulfur":19.4456943,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341c6"},"name":"San Mateo","state":"California","fips":6081,"sulfur":362.32559366239997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341c7"},"name":"Glenn","state":"California","fips":6021,"sulfur":3.5010000000000003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341c8"},"name":"Mono","state":"California","fips":6051,"sulfur":5.8928,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341c9"},"name":"Calaveras","state":"California","fips":6009,"sulfur":1.8,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341ca"},"name":"Clear Creek","state":"Colorado","fips":8019,"sulfur":8.519,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341cb"},"name":"El Paso","state":"Colorado","fips":8041,"sulfur":9756.949514243548,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341cc"},"name":"Chaffee","state":"Colorado","fips":8015,"sulfur":10.982529999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341cd"},"name":"Denver","state":"Colorado","fips":8031,"sulfur":2383.1543430041997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341ce"},"name":"Adams","state":"Colorado","fips":8001,"sulfur":29385.929158789528,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341cf"},"name":"Eagle","state":"Colorado","fips":8037,"sulfur":11.8179282068,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341d0"},"name":"Mesa","state":"Colorado","fips":8077,"sulfur":36.243297604599995,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341d1"},"name":"Weld","state":"Colorado","fips":8123,"sulfur":298.803443,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341d2"},"name":"Pueblo","state":"Colorado","fips":8101,"sulfur":3192.0828490533004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341d3"},"name":"Larimer","state":"Colorado","fips":8069,"sulfur":950.5064833918,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341d4"},"name":"Fremont","state":"Colorado","fips":8043,"sulfur":3347.173537,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341d5"},"name":"Rio Blanco","state":"Colorado","fips":8103,"sulfur":319.884106,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341d6"},"name":"Arapahoe","state":"Colorado","fips":8005,"sulfur":127.25749932221,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341d7"},"name":"Garfield","state":"Colorado","fips":8045,"sulfur":10181.285081,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341d8"},"name":"Moffat","state":"Colorado","fips":8081,"sulfur":3935.92968,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341d9"},"name":"Prowers","state":"Colorado","fips":8099,"sulfur":39.76678,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341da"},"name":"Boulder","state":"Colorado","fips":8013,"sulfur":1034.081083,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341db"},"name":"Douglas","state":"Colorado","fips":8035,"sulfur":28151.1332398912,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341dc"},"name":"Gunnison","state":"Colorado","fips":8051,"sulfur":1.092398629,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341dd"},"name":"Logan","state":"Colorado","fips":8075,"sulfur":518.7894537,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341de"},"name":"La Plata","state":"Colorado","fips":8067,"sulfur":3.8399963313,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341df"},"name":"Pitkin","state":"Colorado","fips":8097,"sulfur":6.0727839421,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341e0"},"name":"Grand","state":"Colorado","fips":8049,"sulfur":39.251424,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341e1"},"name":"Las Animas","state":"Colorado","fips":8071,"sulfur":2.31,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341e2"},"name":"Montezuma","state":"Colorado","fips":8083,"sulfur":35.379259000000005,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341e3"},"name":"Kit Carson","state":"Colorado","fips":8063,"sulfur":6.3,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341e4"},"name":"Broomfield","state":"Colorado","fips":8014,"sulfur":7.86886,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341e5"},"name":"Teller","state":"Colorado","fips":8119,"sulfur":99.18,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341e6"},"name":"Montrose","state":"Colorado","fips":8085,"sulfur":1210.8365866333,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341e7"},"name":"Summit","state":"Colorado","fips":8117,"sulfur":4267.659428306501,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341e8"},"name":"Routt","state":"Colorado","fips":8107,"sulfur":2136.3191826501,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341e9"},"name":"Alamosa","state":"Colorado","fips":8003,"sulfur":32.053783,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341ea"},"name":"Phillips","state":"Colorado","fips":8095,"sulfur":11.0163,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341eb"},"name":"New London","state":"Connecticut","fips":9011,"sulfur":245.19541001820002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341ec"},"name":"New Haven","state":"Connecticut","fips":9009,"sulfur":94.57329912604503,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341ed"},"name":"Hartford","state":"Connecticut","fips":9003,"sulfur":105.6014415596,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341ee"},"name":"Middlesex","state":"Connecticut","fips":9007,"sulfur":578.9082402366,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341ef"},"name":"Windham","state":"Connecticut","fips":9015,"sulfur":293.04011191,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341f0"},"name":"Litchfield","state":"Connecticut","fips":9005,"sulfur":7.433300040000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341f1"},"name":"Fairfield","state":"Connecticut","fips":9001,"sulfur":701.0270528331671,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341f2"},"name":"Tolland","state":"Connecticut","fips":9013,"sulfur":3.243127985,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341f3"},"name":"New Castle","state":"Delaware","fips":10003,"sulfur":889.6699733200002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341f4"},"name":"Sussex","state":"Delaware","fips":10005,"sulfur":9326.239317599997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341f5"},"name":"Kent","state":"Delaware","fips":10001,"sulfur":1746.8026707233,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341f6"},"name":"District of Columbia","state":"District of Columbia","fips":11001,"sulfur":783.4711593200001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341f7"},"name":"Manatee","state":"Florida","fips":12081,"sulfur":1673.9562192315002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341f8"},"name":"Palm Beach","state":"Florida","fips":12099,"sulfur":725.9248209934,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341f9"},"name":"Hillsborough","state":"Florida","fips":12057,"sulfur":14453.0651148179,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341fa"},"name":"Pinellas","state":"Florida","fips":12103,"sulfur":242.8363189499,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341fb"},"name":"Volusia","state":"Florida","fips":12127,"sulfur":84.53239833500001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341fc"},"name":"Duval","state":"Florida","fips":12031,"sulfur":18072.187922617,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341fd"},"name":"Gadsden","state":"Florida","fips":12039,"sulfur":35.07824,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341fe"},"name":"Polk","state":"Florida","fips":12105,"sulfur":21136.703948391194,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab8496341ff"},"name":"Indian River","state":"Florida","fips":12061,"sulfur":11.540636,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634200"},"name":"Okeechobee","state":"Florida","fips":12093,"sulfur":293.95,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634201"},"name":"Pasco","state":"Florida","fips":12101,"sulfur":2166.295632,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634202"},"name":"Brevard","state":"Florida","fips":12009,"sulfur":71.6397544404,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634203"},"name":"Broward","state":"Florida","fips":12011,"sulfur":1019.197087743313,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634204"},"name":"Bay","state":"Florida","fips":12005,"sulfur":28499.461626709002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634205"},"name":"DeSoto","state":"Florida","fips":12027,"sulfur":13.232955,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634206"},"name":"Leon","state":"Florida","fips":12073,"sulfur":300.6132923013,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634207"},"name":"Putnam","state":"Florida","fips":12107,"sulfur":87306.83701949997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634208"},"name":"Osceola","state":"Florida","fips":12097,"sulfur":21.684101,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634209"},"name":"Nassau","state":"Florida","fips":12089,"sulfur":4362.0981323099995,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963420a"},"name":"Miami-Dade","state":"Florida","fips":12086,"sulfur":1403.4257475086,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963420b"},"name":"Wakulla","state":"Florida","fips":12129,"sulfur":6.372033999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963420c"},"name":"St. Lucie","state":"Florida","fips":12111,"sulfur":22.275173000000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963420d"},"name":"Bradford","state":"Florida","fips":12007,"sulfur":46.502866000000004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963420e"},"name":"Martin","state":"Florida","fips":12085,"sulfur":3080.7467343949997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963420f"},"name":"Suwannee","state":"Florida","fips":12121,"sulfur":102.21172399999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634210"},"name":"Hamilton","state":"Florida","fips":12047,"sulfur":34434.33858407775,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634211"},"name":"Taylor","state":"Florida","fips":12123,"sulfur":1629.7767209321999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634212"},"name":"Santa Rosa","state":"Florida","fips":12113,"sulfur":821.8847709999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634213"},"name":"Charlotte","state":"Florida","fips":12015,"sulfur":18.458809789,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634214"},"name":"Seminole","state":"Florida","fips":12117,"sulfur":96.8623797921,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634215"},"name":"Hendry","state":"Florida","fips":12051,"sulfur":156.457668,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634216"},"name":"Hardee","state":"Florida","fips":12049,"sulfur":13.106189999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634217"},"name":"Highlands","state":"Florida","fips":12055,"sulfur":4.867179,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634218"},"name":"Citrus","state":"Florida","fips":12017,"sulfur":26170.494476000003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634219"},"name":"Collier","state":"Florida","fips":12021,"sulfur":21.355686000000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963421a"},"name":"Liberty","state":"Florida","fips":12077,"sulfur":80.074399,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963421b"},"name":"Okaloosa","state":"Florida","fips":12091,"sulfur":11.0446171408,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963421c"},"name":"Sarasota","state":"Florida","fips":12115,"sulfur":7.575932999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963421d"},"name":"Alachua","state":"Florida","fips":12001,"sulfur":2046.6294559384,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963421e"},"name":"Gilchrist","state":"Florida","fips":12041,"sulfur":3.980174,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab84963421f"},"name":"Hernando","state":"Florida","fips":12053,"sulfur":241.47815,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634220"},"name":"St. Johns","state":"Florida","fips":12109,"sulfur":1.0064322,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634221"},"name":"Houston","state":"Georgia","fips":13153,"sulfur":808.0769999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634222"},"name":"Fulton","state":"Georgia","fips":13121,"sulfur":575.11266597,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634223"},"name":"Wilkinson","state":"Georgia","fips":13319,"sulfur":643.9180000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634224"},"name":"Chatham","state":"Georgia","fips":13051,"sulfur":17850.1006184152,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634225"},"name":"Coweta","state":"Georgia","fips":13077,"sulfur":47529.56,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634226"},"name":"Floyd","state":"Georgia","fips":13115,"sulfur":7494.842999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a674cfdab849634227"},"name":"Talbot","state":"Georgia","fips":13263,"sulfur":11.2569,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634228"},"name":"Bartow","state":"Georgia","fips":13015,"sulfur":6543.309,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634229"},"name":"Richmond","state":"Georgia","fips":13245,"sulfur":5399.8628937475,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963422a"},"name":"Effingham","state":"Georgia","fips":13103,"sulfur":4441.0235999999995,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963422b"},"name":"Chattooga","state":"Georgia","fips":13055,"sulfur":32.903,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963422c"},"name":"Murray","state":"Georgia","fips":13213,"sulfur":6.905,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963422d"},"name":"Glynn","state":"Georgia","fips":13127,"sulfur":328.45616019830004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963422e"},"name":"Heard","state":"Georgia","fips":13149,"sulfur":3104.027,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963422f"},"name":"Rabun","state":"Georgia","fips":13241,"sulfur":24.43,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634230"},"name":"Pierce","state":"Georgia","fips":13229,"sulfur":399.8271231,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634231"},"name":"Upson","state":"Georgia","fips":13293,"sulfur":1.55,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634232"},"name":"Brooks","state":"Georgia","fips":13027,"sulfur":35.04,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634233"},"name":"Dougherty","state":"Georgia","fips":13095,"sulfur":1473.562319898,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634234"},"name":"Cook","state":"Georgia","fips":13075,"sulfur":17806.093911564298,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634235"},"name":"Whitfield","state":"Georgia","fips":13313,"sulfur":337.0901,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634236"},"name":"Mitchell","state":"Georgia","fips":13205,"sulfur":20.41,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634237"},"name":"McDuffie","state":"Georgia","fips":13189,"sulfur":2.025,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634238"},"name":"Thomas","state":"Georgia","fips":13275,"sulfur":4.79,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634239"},"name":"Decatur","state":"Georgia","fips":13087,"sulfur":12.315999999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963423a"},"name":"Ware","state":"Georgia","fips":13299,"sulfur":1.21258,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963423b"},"name":"Wayne","state":"Georgia","fips":13305,"sulfur":76127.80455884863,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963423c"},"name":"Laurens","state":"Georgia","fips":13175,"sulfur":1427.08088,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963423d"},"name":"Cobb","state":"Georgia","fips":13067,"sulfur":18870.8507,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963423e"},"name":"Early","state":"Georgia","fips":13099,"sulfur":1906.84,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963423f"},"name":"Atkinson","state":"Georgia","fips":13003,"sulfur":18.879,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634240"},"name":"Forsyth","state":"Georgia","fips":13117,"sulfur":298.2842337249,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634241"},"name":"Hall","state":"Georgia","fips":13139,"sulfur":2887.4918104000003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634242"},"name":"Rockdale","state":"Georgia","fips":13247,"sulfur":7.8,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634243"},"name":"Carroll","state":"Georgia","fips":13045,"sulfur":11035.972463679998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634244"},"name":"Clayton","state":"Georgia","fips":13063,"sulfur":548.19481407,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634245"},"name":"Meriwether","state":"Georgia","fips":13199,"sulfur":11.69,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634246"},"name":"Macon","state":"Georgia","fips":13193,"sulfur":13120.23195,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634247"},"name":"Muscogee","state":"Georgia","fips":13215,"sulfur":2.1431221995,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634248"},"name":"Warren","state":"Georgia","fips":13301,"sulfur":2088.796006555,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634249"},"name":"Bulloch","state":"Georgia","fips":13031,"sulfur":4.349,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963424a"},"name":"Hawaii","state":"Hawaii","fips":15001,"sulfur":3346.8463657762,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963424b"},"name":"Maui","state":"Hawaii","fips":15009,"sulfur":3289.499248671901,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963424c"},"name":"Honolulu","state":"Hawaii","fips":15003,"sulfur":15334.713646380998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963424d"},"name":"Kauai","state":"Hawaii","fips":15007,"sulfur":71.2063045858,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963424e"},"name":"Canyon","state":"Idaho","fips":16027,"sulfur":1701.07162429567,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963424f"},"name":"Caribou","state":"Idaho","fips":16029,"sulfur":1472.4917220000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634250"},"name":"Bannock","state":"Idaho","fips":16005,"sulfur":4.48767,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634251"},"name":"Minidoka","state":"Idaho","fips":16067,"sulfur":356.5800481,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634252"},"name":"Latah","state":"Idaho","fips":16057,"sulfur":9.851951,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634253"},"name":"Kootenai","state":"Idaho","fips":16055,"sulfur":10.9284506,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634254"},"name":"Bonner","state":"Idaho","fips":16017,"sulfur":6.1895999999999995,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634255"},"name":"Power","state":"Idaho","fips":16077,"sulfur":1648.0270739999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634256"},"name":"Ada","state":"Idaho","fips":16001,"sulfur":78.3776300104,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634257"},"name":"Idaho","state":"Idaho","fips":16049,"sulfur":5.275,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634258"},"name":"Nez Perce","state":"Idaho","fips":16069,"sulfur":82.12745199480001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634259"},"name":"Bonneville","state":"Idaho","fips":16019,"sulfur":37.909668444299996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963425a"},"name":"Bingham","state":"Idaho","fips":16011,"sulfur":9.433868,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963425b"},"name":"Boundary","state":"Idaho","fips":16021,"sulfur":5.419,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963425c"},"name":"Blaine","state":"Idaho","fips":16013,"sulfur":1.2086147089,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963425d"},"name":"Twin Falls","state":"Idaho","fips":16083,"sulfur":1449.01013,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963425e"},"name":"Elmore","state":"Idaho","fips":16039,"sulfur":1.94108,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963425f"},"name":"Christian","state":"Illinois","fips":17021,"sulfur":11859.870155999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634260"},"name":"Coles","state":"Illinois","fips":17029,"sulfur":1.14,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634261"},"name":"Champaign","state":"Illinois","fips":17019,"sulfur":527.2525392859,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634262"},"name":"Johnson","state":"Illinois","fips":17087,"sulfur":1901.6108979999997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634263"},"name":"Peoria","state":"Illinois","fips":17143,"sulfur":14053.8353544747,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634264"},"name":"Tazewell","state":"Illinois","fips":17179,"sulfur":34114.234000000004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634265"},"name":"Boone","state":"Illinois","fips":17007,"sulfur":9111.465008572399,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634266"},"name":"White","state":"Illinois","fips":17193,"sulfur":15.35,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634267"},"name":"Kane","state":"Illinois","fips":17089,"sulfur":64.70199999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634268"},"name":"Grundy","state":"Illinois","fips":17063,"sulfur":105.4077,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634269"},"name":"Vermilion","state":"Illinois","fips":17183,"sulfur":535.80375885,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963426a"},"name":"Kendall","state":"Illinois","fips":17093,"sulfur":12.38206,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963426b"},"name":"Stephenson","state":"Illinois","fips":17177,"sulfur":2.417,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963426c"},"name":"Massac","state":"Illinois","fips":17127,"sulfur":27268.921899999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963426d"},"name":"De Witt","state":"Illinois","fips":17039,"sulfur":14.88589,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963426e"},"name":"Ogle","state":"Illinois","fips":17141,"sulfur":480.42039,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963426f"},"name":"Henderson","state":"Illinois","fips":17071,"sulfur":4549.8363552,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634270"},"name":"DuPage","state":"Illinois","fips":17043,"sulfur":98.10300000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634271"},"name":"Jo Daviess","state":"Illinois","fips":17085,"sulfur":1.07611,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634272"},"name":"LaSalle","state":"Illinois","fips":17099,"sulfur":606.883,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634273"},"name":"Crawford","state":"Illinois","fips":17033,"sulfur":16027.088489999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634274"},"name":"Will","state":"Illinois","fips":17197,"sulfur":34348.321,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634275"},"name":"Kankakee","state":"Illinois","fips":17091,"sulfur":94.04,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634276"},"name":"Winnebago","state":"Illinois","fips":17201,"sulfur":465.3910784428,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634277"},"name":"McHenry","state":"Illinois","fips":17111,"sulfur":7.0969999999999995,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634278"},"name":"Whiteside","state":"Illinois","fips":17195,"sulfur":237.21,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634279"},"name":"McLean","state":"Illinois","fips":17113,"sulfur":15072.9115084192,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963427a"},"name":"Rock Island","state":"Illinois","fips":17161,"sulfur":1332.6758970237,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963427b"},"name":"Sangamon","state":"Illinois","fips":17167,"sulfur":3277.819900321,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963427c"},"name":"McDonough","state":"Illinois","fips":17109,"sulfur":434.15,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963427d"},"name":"Piatt","state":"Illinois","fips":17147,"sulfur":4.36,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963427e"},"name":"Williamson","state":"Illinois","fips":17199,"sulfur":8507.803602,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963427f"},"name":"Livingston","state":"Illinois","fips":17105,"sulfur":15.316500000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634280"},"name":"Ford","state":"Illinois","fips":17053,"sulfur":115.344011081,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634281"},"name":"Cumberland","state":"Illinois","fips":17035,"sulfur":2281.7053933951565,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634282"},"name":"Henry","state":"Illinois","fips":17073,"sulfur":12069.494200000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634283"},"name":"Cass","state":"Illinois","fips":17017,"sulfur":2974.085272873999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634284"},"name":"Clinton","state":"Illinois","fips":17027,"sulfur":5486.521248060701,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634285"},"name":"Jasper","state":"Illinois","fips":17079,"sulfur":49479.9532396,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634286"},"name":"Alexander","state":"Illinois","fips":17003,"sulfur":272.17,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634287"},"name":"Mason","state":"Illinois","fips":17125,"sulfur":27714.030165999997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634288"},"name":"Knox","state":"Illinois","fips":17095,"sulfur":593.6505868721699,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634289"},"name":"Parke","state":"Indiana","fips":18121,"sulfur":2.18732,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963428a"},"name":"Dearborn","state":"Indiana","fips":18029,"sulfur":28287.025161,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963428b"},"name":"Tippecanoe","state":"Indiana","fips":18157,"sulfur":7445.19335648,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963428c"},"name":"Allen","state":"Indiana","fips":18003,"sulfur":741.6544337790001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963428d"},"name":"Noble","state":"Indiana","fips":18113,"sulfur":19095.31690574,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963428e"},"name":"Perry","state":"Indiana","fips":18123,"sulfur":142.42857999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963428f"},"name":"Sullivan","state":"Indiana","fips":18153,"sulfur":9057.518597065002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634290"},"name":"Fountain","state":"Indiana","fips":18045,"sulfur":8.09527,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634291"},"name":"Wabash","state":"Indiana","fips":18169,"sulfur":677.262442,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634292"},"name":"Elkhart","state":"Indiana","fips":18039,"sulfur":14.17542,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634293"},"name":"Bartholomew","state":"Indiana","fips":18005,"sulfur":10.695245000000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634294"},"name":"Porter","state":"Indiana","fips":18127,"sulfur":16456.948827930002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634295"},"name":"Newton","state":"Indiana","fips":18111,"sulfur":25.2001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634296"},"name":"Gibson","state":"Indiana","fips":18051,"sulfur":18986.6,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634297"},"name":"Dubois","state":"Indiana","fips":18037,"sulfur":18.578015,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634298"},"name":"Posey","state":"Indiana","fips":18129,"sulfur":10686.0323425,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634299"},"name":"Warrick","state":"Indiana","fips":18173,"sulfur":9687.6646815,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963429a"},"name":"LaPorte","state":"Indiana","fips":18091,"sulfur":13357.515742200001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963429b"},"name":"St. Joseph","state":"Indiana","fips":18141,"sulfur":2837.9662513727994,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963429c"},"name":"Kosciusko","state":"Indiana","fips":18085,"sulfur":1.78567625,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963429d"},"name":"Hendricks","state":"Indiana","fips":18063,"sulfur":197.04149,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963429e"},"name":"Vigo","state":"Indiana","fips":18167,"sulfur":55885.76307939999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963429f"},"name":"Huntington","state":"Indiana","fips":18069,"sulfur":219.89284,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342a0"},"name":"Vanderburgh","state":"Indiana","fips":18163,"sulfur":10.8080223368,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342a1"},"name":"Jay","state":"Indiana","fips":18075,"sulfur":314.82605,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342a2"},"name":"Delaware","state":"Indiana","fips":18035,"sulfur":7150.483810936,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342a3"},"name":"Miami","state":"Indiana","fips":18103,"sulfur":28.08015408,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342a4"},"name":"Jennings","state":"Indiana","fips":18079,"sulfur":148.507414,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342a5"},"name":"Vermillion","state":"Indiana","fips":18165,"sulfur":4863.27634433,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342a6"},"name":"Whitley","state":"Indiana","fips":18183,"sulfur":99.194925,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342a7"},"name":"Daviess","state":"Indiana","fips":18027,"sulfur":8973.749550980001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342a8"},"name":"Poweshiek","state":"Iowa","fips":19157,"sulfur":1.428,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342a9"},"name":"Dubuque","state":"Iowa","fips":19061,"sulfur":1031.8481935387,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342aa"},"name":"Cerro Gordo","state":"Iowa","fips":19033,"sulfur":183.1387889211,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342ab"},"name":"Hancock","state":"Iowa","fips":19081,"sulfur":10351.036158414201,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342ac"},"name":"Black Hawk","state":"Iowa","fips":19013,"sulfur":346.88300000000004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342ad"},"name":"Webster","state":"Iowa","fips":19187,"sulfur":12686.572460809999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342ae"},"name":"Linn","state":"Iowa","fips":19113,"sulfur":25687.923268287002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342af"},"name":"Guthrie","state":"Iowa","fips":19077,"sulfur":3.73,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342b0"},"name":"Ida","state":"Iowa","fips":19093,"sulfur":68.81,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342b1"},"name":"Pottawattamie","state":"Iowa","fips":19155,"sulfur":15049.96352,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342b2"},"name":"Woodbury","state":"Iowa","fips":19193,"sulfur":29563.56366,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342b3"},"name":"Louisa","state":"Iowa","fips":19115,"sulfur":7308.139999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342b4"},"name":"Allamakee","state":"Iowa","fips":19005,"sulfur":5280,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342b5"},"name":"Des Moines","state":"Iowa","fips":19057,"sulfur":5605.63193572671,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342b6"},"name":"Muscatine","state":"Iowa","fips":19139,"sulfur":19715.264006,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342b7"},"name":"Spencer","state":"Indiana","fips":18147,"sulfur":36319.6307,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342b8"},"name":"Story","state":"Iowa","fips":19169,"sulfur":3501.93,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342b9"},"name":"Chickasaw","state":"Iowa","fips":19037,"sulfur":3.49,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342ba"},"name":"Wapello","state":"Iowa","fips":19179,"sulfur":12200.00563,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342bb"},"name":"Kossuth","state":"Iowa","fips":19109,"sulfur":4.19,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342bc"},"name":"Wright","state":"Iowa","fips":19197,"sulfur":376.54309482,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342bd"},"name":"Worth","state":"Iowa","fips":19195,"sulfur":1.06,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342be"},"name":"Jones","state":"Iowa","fips":19105,"sulfur":6.6702557658,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342bf"},"name":"Davis","state":"Iowa","fips":19051,"sulfur":382.769949,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342c0"},"name":"Appanoose","state":"Iowa","fips":19007,"sulfur":2.37,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342c1"},"name":"Buena Vista","state":"Iowa","fips":19021,"sulfur":3.77,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342c2"},"name":"Hardin","state":"Iowa","fips":19083,"sulfur":17.4187,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342c3"},"name":"Dickinson","state":"Iowa","fips":19059,"sulfur":440.898708928,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342c4"},"name":"Ellsworth","state":"Kansas","fips":20053,"sulfur":8.51458830666,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342c5"},"name":"Wyandotte","state":"Kansas","fips":20209,"sulfur":9830.09691871,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342c6"},"name":"Sedgwick","state":"Kansas","fips":20173,"sulfur":28.1238784953,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342c7"},"name":"Pottawatomie","state":"Kansas","fips":20149,"sulfur":1598.7759999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342c8"},"name":"Seward","state":"Kansas","fips":20175,"sulfur":47.8972501159,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342c9"},"name":"Shawnee","state":"Kansas","fips":20177,"sulfur":4919.1503033,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342ca"},"name":"Labette","state":"Kansas","fips":20099,"sulfur":1.848017,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342cb"},"name":"Lyon","state":"Kansas","fips":20111,"sulfur":341.85659991,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342cc"},"name":"Reno","state":"Kansas","fips":20155,"sulfur":1.7661336,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342cd"},"name":"Finney","state":"Kansas","fips":20055,"sulfur":1679.536522,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342ce"},"name":"Barton","state":"Kansas","fips":20009,"sulfur":13.007561939,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342cf"},"name":"Cowley","state":"Kansas","fips":20035,"sulfur":2.327841,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342d0"},"name":"Riley","state":"Kansas","fips":20161,"sulfur":9.1251619999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342d1"},"name":"Atchison","state":"Kansas","fips":20005,"sulfur":22.306159,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342d2"},"name":"Ellis","state":"Kansas","fips":20051,"sulfur":6804.5423008703,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342d3"},"name":"Rice","state":"Kansas","fips":20159,"sulfur":38.79804,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342d4"},"name":"Harvey","state":"Kansas","fips":20079,"sulfur":5.2419,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342d5"},"name":"McPherson","state":"Kansas","fips":20113,"sulfur":49.004056,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342d6"},"name":"Cloud","state":"Kansas","fips":20029,"sulfur":10.519,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342d7"},"name":"Coffey","state":"Kansas","fips":20031,"sulfur":2.717661,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342d8"},"name":"Pawnee","state":"Kansas","fips":20145,"sulfur":38.531656999999996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342d9"},"name":"Neosho","state":"Kansas","fips":20133,"sulfur":486.58,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342da"},"name":"Wilson","state":"Kansas","fips":20205,"sulfur":1410.6980999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342db"},"name":"Ohio","state":"Kentucky","fips":21183,"sulfur":9725.194969999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342dc"},"name":"Harlan","state":"Kentucky","fips":21095,"sulfur":31.743940000000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342dd"},"name":"Meade","state":"Kentucky","fips":21163,"sulfur":86.4843033,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342de"},"name":"Fleming","state":"Kentucky","fips":21069,"sulfur":2.0435793,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342df"},"name":"Metcalfe","state":"Kentucky","fips":21169,"sulfur":6.955072,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342e0"},"name":"Ballard","state":"Kentucky","fips":21007,"sulfur":556.87478615,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342e1"},"name":"Green","state":"Kentucky","fips":21087,"sulfur":21.529437360000003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342e2"},"name":"Pendleton","state":"Kentucky","fips":21191,"sulfur":857.5195810400002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342e3"},"name":"Larue","state":"Kentucky","fips":21123,"sulfur":29.74338233,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342e4"},"name":"Garrard","state":"Kentucky","fips":21079,"sulfur":8.29613,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342e5"},"name":"Mercer","state":"Kentucky","fips":21167,"sulfur":75329.56242545001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342e6"},"name":"McCracken","state":"Kentucky","fips":21145,"sulfur":28287.69835982,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342e7"},"name":"Hopkins","state":"Kentucky","fips":21107,"sulfur":8.1354,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342e8"},"name":"Powell","state":"Kentucky","fips":21197,"sulfur":18.95574,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342e9"},"name":"Boyd","state":"Kentucky","fips":21019,"sulfur":1482.17217201,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342ea"},"name":"Letcher","state":"Kentucky","fips":21133,"sulfur":1.03031,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342eb"},"name":"Carter","state":"Kentucky","fips":21043,"sulfur":68.29881999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342ec"},"name":"Bullitt","state":"Kentucky","fips":21029,"sulfur":420.30727822,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342ed"},"name":"Bath","state":"Kentucky","fips":21011,"sulfur":38.60219899,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342ee"},"name":"Trimble","state":"Kentucky","fips":21223,"sulfur":3149.5478952,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342ef"},"name":"Laurel","state":"Kentucky","fips":21125,"sulfur":34.894619999999996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342f0"},"name":"Woodford","state":"Kentucky","fips":21239,"sulfur":299.881,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342f1"},"name":"Breckinridge","state":"Kentucky","fips":21027,"sulfur":4.478548,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342f2"},"name":"Elliott","state":"Kentucky","fips":21063,"sulfur":4.15482,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342f3"},"name":"Grayson","state":"Kentucky","fips":21085,"sulfur":13.533782500000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342f4"},"name":"Gallatin","state":"Kentucky","fips":21077,"sulfur":81.4214362653,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342f5"},"name":"Greenup","state":"Kentucky","fips":21089,"sulfur":1546.780687,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342f6"},"name":"Adair","state":"Kentucky","fips":21001,"sulfur":5.17427,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342f7"},"name":"Muhlenberg","state":"Kentucky","fips":21177,"sulfur":55005.66514946,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342f8"},"name":"Rowan","state":"Kentucky","fips":21205,"sulfur":4389.15997872,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342f9"},"name":"Nelson","state":"Kentucky","fips":21179,"sulfur":225.15295129999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342fa"},"name":"Barren","state":"Kentucky","fips":21009,"sulfur":2.0356712,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342fb"},"name":"Anderson","state":"Kentucky","fips":21005,"sulfur":6165.769473910001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342fc"},"name":"Lincoln","state":"Kentucky","fips":21137,"sulfur":55531.374778510195,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342fd"},"name":"Bourbon","state":"Kentucky","fips":21017,"sulfur":14.7636251,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342fe"},"name":"Iberville","state":"Louisiana","fips":22047,"sulfur":6339.592625,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496342ff"},"name":"West Baton Rouge","state":"Louisiana","fips":22121,"sulfur":8472.324601999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634300"},"name":"St. Charles","state":"Louisiana","fips":22089,"sulfur":8837.00438,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634301"},"name":"Orleans","state":"Louisiana","fips":22071,"sulfur":44.084701,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634302"},"name":"Calcasieu","state":"Louisiana","fips":22019,"sulfur":39022.3422081597,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634303"},"name":"Caddo","state":"Louisiana","fips":22017,"sulfur":397.72551863560005,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634304"},"name":"Bienville","state":"Louisiana","fips":22013,"sulfur":9.027701,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634305"},"name":"East Baton Rouge","state":"Louisiana","fips":22033,"sulfur":9281.678836071598,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634306"},"name":"Plaquemines","state":"Louisiana","fips":22075,"sulfur":1722.902779,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634307"},"name":"West Feliciana","state":"Louisiana","fips":22125,"sulfur":131.75,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634308"},"name":"St. James","state":"Louisiana","fips":22093,"sulfur":6880.704945,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634309"},"name":"Tangipahoa","state":"Louisiana","fips":22105,"sulfur":2.286013,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963430a"},"name":"Evangeline","state":"Louisiana","fips":22039,"sulfur":8275.73,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963430b"},"name":"Ascension","state":"Louisiana","fips":22005,"sulfur":607.402672,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963430c"},"name":"Lafourche","state":"Louisiana","fips":22057,"sulfur":30.550824000000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963430d"},"name":"Lafayette","state":"Louisiana","fips":22055,"sulfur":8.5767926978,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963430e"},"name":"Acadia","state":"Louisiana","fips":22001,"sulfur":22.544817,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963430f"},"name":"Assumption","state":"Louisiana","fips":22007,"sulfur":11.1,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634310"},"name":"Cameron","state":"Louisiana","fips":22023,"sulfur":18.812519304258,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634311"},"name":"Rapides","state":"Louisiana","fips":22079,"sulfur":12773.202148298,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634312"},"name":"Pointe Coupee","state":"Louisiana","fips":22077,"sulfur":38798.45973999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634313"},"name":"Richland","state":"Louisiana","fips":22083,"sulfur":9393.795119695002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634314"},"name":"St. Bernard","state":"Louisiana","fips":22087,"sulfur":4689.0937,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634315"},"name":"Red River","state":"Louisiana","fips":22081,"sulfur":19.3018,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634316"},"name":"St. Mary","state":"Louisiana","fips":22101,"sulfur":21385.68793,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634317"},"name":"St. Landry","state":"Louisiana","fips":22097,"sulfur":414.48517799999996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634318"},"name":"Natchitoches","state":"Louisiana","fips":22069,"sulfur":334.143839,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634319"},"name":"Terrebonne","state":"Louisiana","fips":22109,"sulfur":5.16974835,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963431a"},"name":"St. John the Baptist","state":"Louisiana","fips":22095,"sulfur":384.61109,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963431b"},"name":"St. Martin","state":"Louisiana","fips":22099,"sulfur":1.05,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963431c"},"name":"Bossier","state":"Louisiana","fips":22015,"sulfur":73.15,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963431d"},"name":"Iberia","state":"Louisiana","fips":22045,"sulfur":4.12394804599,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963431e"},"name":"Winn","state":"Louisiana","fips":22127,"sulfur":21.5,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963431f"},"name":"Beauregard","state":"Louisiana","fips":22011,"sulfur":163.0539,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634320"},"name":"De Soto","state":"Louisiana","fips":22031,"sulfur":22491.409114000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634321"},"name":"Sabine","state":"Louisiana","fips":22085,"sulfur":23.0844,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634322"},"name":"Somerset","state":"Maine","fips":23025,"sulfur":1699.10026358392,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634323"},"name":"Piscataquis","state":"Maine","fips":23021,"sulfur":15.369164370551998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634324"},"name":"Aroostook","state":"Maine","fips":23003,"sulfur":341.5235348556499,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634325"},"name":"Oxford","state":"Maine","fips":23017,"sulfur":655.9597145,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634326"},"name":"Kennebec","state":"Maine","fips":23011,"sulfur":253.58542607249996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634327"},"name":"Penobscot","state":"Maine","fips":23019,"sulfur":606.5787344452999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634328"},"name":"Waldo","state":"Maine","fips":23027,"sulfur":27.40446695,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634329"},"name":"Sagadahoc","state":"Maine","fips":23023,"sulfur":62.31389136999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963432a"},"name":"Androscoggin","state":"Maine","fips":23001,"sulfur":83.999586126106,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963432b"},"name":"York","state":"Maine","fips":23031,"sulfur":42157.8087060426,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963432c"},"name":"Harford","state":"Maryland","fips":24025,"sulfur":66.9127994,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963432d"},"name":"Anne Arundel","state":"Maryland","fips":24003,"sulfur":12048.8396243617,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963432e"},"name":"Charles","state":"Maryland","fips":24017,"sulfur":5714.299174999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963432f"},"name":"Allegany","state":"Maryland","fips":24001,"sulfur":24024.677854999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634330"},"name":"Frederick","state":"Maryland","fips":24021,"sulfur":57.962054099999996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634331"},"name":"Prince George's","state":"Maryland","fips":24033,"sulfur":5811.015261700001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634332"},"name":"Baltimore","state":"Maryland","fips":24510,"sulfur":6886.0844363,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634333"},"name":"Wicomico","state":"Maryland","fips":24045,"sulfur":7.337799969,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634334"},"name":"Dorchester","state":"Maryland","fips":24019,"sulfur":1531.9382471600002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634335"},"name":"Garrett","state":"Maryland","fips":24023,"sulfur":66.58679,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634336"},"name":"Worcester","state":"Maryland","fips":24047,"sulfur":725.544022865,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634337"},"name":"St. Mary's","state":"Maryland","fips":24037,"sulfur":29.979110000000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634338"},"name":"Cecil","state":"Maryland","fips":24015,"sulfur":4.3750213,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634339"},"name":"Queen Anne's","state":"Maryland","fips":24035,"sulfur":3.6018,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963433a"},"name":"Berkshire","state":"Massachusetts","fips":25003,"sulfur":127.8597,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963433b"},"name":"Plymouth","state":"Massachusetts","fips":25023,"sulfur":590.0287999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963433c"},"name":"Bristol","state":"Massachusetts","fips":25005,"sulfur":18818.8188,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963433d"},"name":"Hampshire","state":"Massachusetts","fips":25015,"sulfur":52.06450000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963433e"},"name":"Hampden","state":"Massachusetts","fips":25013,"sulfur":1023.2070000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963433f"},"name":"Norfolk","state":"Massachusetts","fips":25021,"sulfur":718.8171421628999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634340"},"name":"Suffolk","state":"Massachusetts","fips":25025,"sulfur":1994.0932278100001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634341"},"name":"Dukes","state":"Massachusetts","fips":25007,"sulfur":13.2238451256,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634342"},"name":"Essex","state":"Massachusetts","fips":25009,"sulfur":5431.8964748368,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634343"},"name":"Barnstable","state":"Massachusetts","fips":25001,"sulfur":137.6726346709,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634344"},"name":"Nantucket","state":"Massachusetts","fips":25019,"sulfur":4.7301737182,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634345"},"name":"Macomb","state":"Michigan","fips":26099,"sulfur":88.40087,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634346"},"name":"Montcalm","state":"Michigan","fips":26117,"sulfur":1.64,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634347"},"name":"Grand Traverse","state":"Michigan","fips":26055,"sulfur":39.8718835873,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634348"},"name":"Kalamazoo","state":"Michigan","fips":26077,"sulfur":970.9168751697999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634349"},"name":"Midland","state":"Michigan","fips":26111,"sulfur":245.10228837990005,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963434a"},"name":"Berrien","state":"Michigan","fips":26021,"sulfur":11.326,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963434b"},"name":"Huron","state":"Michigan","fips":26063,"sulfur":1775.637245,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963434c"},"name":"Wexford","state":"Michigan","fips":26165,"sulfur":91.62929999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963434d"},"name":"Sanilac","state":"Michigan","fips":26151,"sulfur":245.2896,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963434e"},"name":"Muskegon","state":"Michigan","fips":26121,"sulfur":7227.08445,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963434f"},"name":"Branch","state":"Michigan","fips":26023,"sulfur":20.747104999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634350"},"name":"Marquette","state":"Michigan","fips":26103,"sulfur":10487.1470865332,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634351"},"name":"Saginaw","state":"Michigan","fips":26145,"sulfur":434.07642092099996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634352"},"name":"Isabella","state":"Michigan","fips":26073,"sulfur":24.045144999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634353"},"name":"Genesee","state":"Michigan","fips":26049,"sulfur":28.183038653300002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634354"},"name":"Alpena","state":"Michigan","fips":26007,"sulfur":11534.075317305998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634355"},"name":"Clare","state":"Michigan","fips":26035,"sulfur":49.862,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634356"},"name":"Baraga","state":"Michigan","fips":26013,"sulfur":343.03000015,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634357"},"name":"Ingham","state":"Michigan","fips":26065,"sulfur":7452.169875,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634358"},"name":"Leelanau","state":"Michigan","fips":26089,"sulfur":3.154,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634359"},"name":"Allegan","state":"Michigan","fips":26005,"sulfur":28.150329999999997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963435a"},"name":"Ottawa","state":"Michigan","fips":26139,"sulfur":29413.964634999993,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963435b"},"name":"Delta","state":"Michigan","fips":26041,"sulfur":3189.8799886483,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963435c"},"name":"Lenawee","state":"Michigan","fips":26091,"sulfur":13.857254999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963435d"},"name":"Schoolcraft","state":"Michigan","fips":26153,"sulfur":883.2408,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963435e"},"name":"Barry","state":"Michigan","fips":26015,"sulfur":24.75794,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963435f"},"name":"Oakland","state":"Michigan","fips":26125,"sulfur":37.9394621422,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634360"},"name":"Montmorency","state":"Michigan","fips":26119,"sulfur":134.7475,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634361"},"name":"Otsego","state":"Michigan","fips":26137,"sulfur":31.45281,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634362"},"name":"Washtenaw","state":"Michigan","fips":26161,"sulfur":42.851485000000004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634363"},"name":"Shiawassee","state":"Michigan","fips":26155,"sulfur":156.82055,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634364"},"name":"Manistee","state":"Michigan","fips":26101,"sulfur":3279.077855,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634365"},"name":"Eaton","state":"Michigan","fips":26045,"sulfur":2915.018185,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634366"},"name":"Hillsdale","state":"Michigan","fips":26059,"sulfur":839.403245,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634367"},"name":"Mackinac","state":"Michigan","fips":26097,"sulfur":1.9195,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634368"},"name":"Ontonagon","state":"Michigan","fips":26131,"sulfur":44.415585,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634369"},"name":"Gogebic","state":"Michigan","fips":26053,"sulfur":1.0062029068,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963436a"},"name":"Menominee","state":"Michigan","fips":26109,"sulfur":308.462705,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963436b"},"name":"Chippewa","state":"Michigan","fips":26033,"sulfur":61.87484955,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963436c"},"name":"Lapeer","state":"Michigan","fips":26087,"sulfur":8.265,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963436d"},"name":"Tuscola","state":"Michigan","fips":26157,"sulfur":366.597155,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963436e"},"name":"Roscommon","state":"Michigan","fips":26143,"sulfur":36.84544999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963436f"},"name":"Arenac","state":"Michigan","fips":26011,"sulfur":8.28208,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634370"},"name":"Iron","state":"Michigan","fips":26071,"sulfur":2203.4816767896,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634371"},"name":"Luce","state":"Michigan","fips":26095,"sulfur":1.71191,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634372"},"name":"Charlevoix","state":"Michigan","fips":26029,"sulfur":1944.4660000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634373"},"name":"Missaukee","state":"Michigan","fips":26113,"sulfur":226.075,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634374"},"name":"Houghton","state":"Michigan","fips":26061,"sulfur":1.3869128531,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634375"},"name":"Emmet","state":"Michigan","fips":26047,"sulfur":1.191788914,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634376"},"name":"Van Buren","state":"Michigan","fips":26159,"sulfur":5.325535,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634377"},"name":"Kalkaska","state":"Michigan","fips":26079,"sulfur":2.5355,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634378"},"name":"Alger","state":"Michigan","fips":26003,"sulfur":807.53059,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634379"},"name":"Ogemaw","state":"Michigan","fips":26129,"sulfur":3.2473,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963437a"},"name":"Alcona","state":"Michigan","fips":26001,"sulfur":193.285,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963437b"},"name":"Antrim","state":"Michigan","fips":26009,"sulfur":2.709,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963437c"},"name":"Dakota","state":"Minnesota","fips":27037,"sulfur":5711.607151113999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963437d"},"name":"Hubbard","state":"Minnesota","fips":27057,"sulfur":31.769023999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963437e"},"name":"St. Louis","state":"Minnesota","fips":27137,"sulfur":25110.162305431204,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963437f"},"name":"Anoka","state":"Minnesota","fips":27003,"sulfur":14.316979340000003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634380"},"name":"Beltrami","state":"Minnesota","fips":27007,"sulfur":11.527054099,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634381"},"name":"Hennepin","state":"Minnesota","fips":27053,"sulfur":334.74274974930006,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634382"},"name":"Itasca","state":"Minnesota","fips":27061,"sulfur":4091.954543,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634383"},"name":"Goodhue","state":"Minnesota","fips":27049,"sulfur":1194.446064,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634384"},"name":"Steele","state":"Minnesota","fips":27147,"sulfur":6.9217423,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634385"},"name":"Ramsey","state":"Minnesota","fips":27123,"sulfur":364.58792460000006,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634386"},"name":"Sherburne","state":"Minnesota","fips":27141,"sulfur":20246.306665468,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634387"},"name":"Crow Wing","state":"Minnesota","fips":27035,"sulfur":613.1336585517,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634388"},"name":"Stearns","state":"Minnesota","fips":27145,"sulfur":35.4479695,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634389"},"name":"Waseca","state":"Minnesota","fips":27161,"sulfur":87.36882,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963438a"},"name":"Renville","state":"Minnesota","fips":27129,"sulfur":841.2184426,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963438b"},"name":"Stevens","state":"Minnesota","fips":27149,"sulfur":12.987015666,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963438c"},"name":"Olmsted","state":"Minnesota","fips":27109,"sulfur":473.788041294,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963438d"},"name":"Carlton","state":"Minnesota","fips":27017,"sulfur":200.31767100000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963438e"},"name":"Redwood","state":"Minnesota","fips":27127,"sulfur":32.98191081,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963438f"},"name":"Roseau","state":"Minnesota","fips":27135,"sulfur":1.4937994593,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634390"},"name":"Kanabec","state":"Minnesota","fips":27065,"sulfur":1.88745,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634391"},"name":"Isanti","state":"Minnesota","fips":27059,"sulfur":3.19347,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634392"},"name":"Wadena","state":"Minnesota","fips":27159,"sulfur":1.33,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634393"},"name":"Otter Tail","state":"Minnesota","fips":27111,"sulfur":3432.8399392,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634394"},"name":"Blue Earth","state":"Minnesota","fips":27013,"sulfur":189.25572735999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634395"},"name":"Koochiching","state":"Minnesota","fips":27071,"sulfur":63.3089115164,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634396"},"name":"Nicollet","state":"Minnesota","fips":27103,"sulfur":23.952515,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634397"},"name":"Mower","state":"Minnesota","fips":27099,"sulfur":208.854927,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634398"},"name":"Morrison","state":"Minnesota","fips":27097,"sulfur":2.814,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634399"},"name":"Brown","state":"Minnesota","fips":27015,"sulfur":18215.111292396,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963439a"},"name":"Kandiyohi","state":"Minnesota","fips":27067,"sulfur":411.38432559999995,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963439b"},"name":"McLeod","state":"Minnesota","fips":27085,"sulfur":11.868732,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963439c"},"name":"Swift","state":"Minnesota","fips":27151,"sulfur":47.1,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963439d"},"name":"Winona","state":"Minnesota","fips":27169,"sulfur":21.910034,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963439e"},"name":"Nobles","state":"Minnesota","fips":27105,"sulfur":2.424769,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963439f"},"name":"Le Sueur","state":"Minnesota","fips":27079,"sulfur":1.6404645,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343a0"},"name":"Wabasha","state":"Minnesota","fips":27157,"sulfur":1.24577828,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343a1"},"name":"Clearwater","state":"Minnesota","fips":27029,"sulfur":1.838185,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343a2"},"name":"Sibley","state":"Minnesota","fips":27143,"sulfur":6.9007953,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343a3"},"name":"Faribault","state":"Minnesota","fips":27043,"sulfur":66.6814928,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343a4"},"name":"Freeborn","state":"Minnesota","fips":27047,"sulfur":2.450045,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343a5"},"name":"Big Stone","state":"Minnesota","fips":27011,"sulfur":4.79,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343a6"},"name":"Stone","state":"Mississippi","fips":28131,"sulfur":7.67,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343a7"},"name":"Claiborne","state":"Mississippi","fips":28021,"sulfur":2.46,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343a8"},"name":"Tippah","state":"Mississippi","fips":28139,"sulfur":28.529999999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343a9"},"name":"Coahoma","state":"Mississippi","fips":28027,"sulfur":2.05,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343aa"},"name":"Noxubee","state":"Mississippi","fips":28103,"sulfur":3.98,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343ab"},"name":"Rankin","state":"Mississippi","fips":28121,"sulfur":5083.208313563299,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343ac"},"name":"Alcorn","state":"Mississippi","fips":28003,"sulfur":20.61,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343ad"},"name":"Jefferson Davis","state":"Mississippi","fips":28065,"sulfur":2.9,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343ae"},"name":"Panola","state":"Mississippi","fips":28107,"sulfur":16.8099,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343af"},"name":"Attala","state":"Mississippi","fips":28007,"sulfur":2.6,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343b0"},"name":"Smith","state":"Mississippi","fips":28129,"sulfur":408.1554140527,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343b1"},"name":"Tate","state":"Mississippi","fips":28137,"sulfur":38.44,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343b2"},"name":"Tunica","state":"Mississippi","fips":28143,"sulfur":1.24,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343b3"},"name":"Harrison","state":"Mississippi","fips":28047,"sulfur":48688.67016470759,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343b4"},"name":"Grenada","state":"Mississippi","fips":28043,"sulfur":6.3,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343b5"},"name":"Hinds","state":"Mississippi","fips":28049,"sulfur":16.08,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343b6"},"name":"Itawamba","state":"Mississippi","fips":28057,"sulfur":4.22,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343b7"},"name":"Yazoo","state":"Mississippi","fips":28163,"sulfur":2.79,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343b8"},"name":"Leflore","state":"Mississippi","fips":28083,"sulfur":43.9,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343b9"},"name":"Kemper","state":"Mississippi","fips":28069,"sulfur":1,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343ba"},"name":"Neshoba","state":"Mississippi","fips":28099,"sulfur":12.09,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343bb"},"name":"Simpson","state":"Mississippi","fips":28127,"sulfur":2.22,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343bc"},"name":"Bolivar","state":"Mississippi","fips":28011,"sulfur":20.49,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343bd"},"name":"New Madrid","state":"Missouri","fips":29143,"sulfur":20833.56,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343be"},"name":"Cole","state":"Missouri","fips":29051,"sulfur":4.9399999999999995,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343bf"},"name":"Laclede","state":"Missouri","fips":29105,"sulfur":2.39,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343c0"},"name":"St. Francois","state":"Missouri","fips":29187,"sulfur":27.870000000000005,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343c1"},"name":"Howell","state":"Missouri","fips":29091,"sulfur":3.62,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343c2"},"name":"Audrain","state":"Missouri","fips":29007,"sulfur":20.51,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343c3"},"name":"Holt","state":"Missouri","fips":29087,"sulfur":93.34,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343c4"},"name":"Taney","state":"Missouri","fips":29213,"sulfur":5.952902638199999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343c5"},"name":"Stoddard","state":"Missouri","fips":29207,"sulfur":1.4,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343c6"},"name":"Buchanan","state":"Missouri","fips":29021,"sulfur":7085.818499999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343c7"},"name":"Osage","state":"Missouri","fips":29151,"sulfur":3214.72,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343c8"},"name":"Cape Girardeau","state":"Missouri","fips":29031,"sulfur":752.13,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343c9"},"name":"Pettis","state":"Missouri","fips":29159,"sulfur":150.73,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343ca"},"name":"Ste. Genevieve","state":"Missouri","fips":29186,"sulfur":3716.98,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343cb"},"name":"Nodaway","state":"Missouri","fips":29147,"sulfur":1.61,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343cc"},"name":"Platte","state":"Missouri","fips":29165,"sulfur":10094.181687080802,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343cd"},"name":"Maries","state":"Missouri","fips":29125,"sulfur":18.43,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343ce"},"name":"Callaway","state":"Missouri","fips":29027,"sulfur":21.37,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343cf"},"name":"Dent","state":"Missouri","fips":29065,"sulfur":2.36,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343d0"},"name":"Dunklin","state":"Missouri","fips":29069,"sulfur":1.83,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343d1"},"name":"Phelps","state":"Missouri","fips":29161,"sulfur":452.21,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343d2"},"name":"Cooper","state":"Missouri","fips":29053,"sulfur":2.57,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343d3"},"name":"Rosebud","state":"Montana","fips":30087,"sulfur":12334.111499999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343d4"},"name":"Missoula","state":"Montana","fips":30063,"sulfur":11.5690076751,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343d5"},"name":"Yellowstone","state":"Montana","fips":30111,"sulfur":7353.3870899009,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343d6"},"name":"Stillwater","state":"Montana","fips":30095,"sulfur":4.9258,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343d7"},"name":"Fallon","state":"Montana","fips":30025,"sulfur":107.4671,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343d8"},"name":"Mineral","state":"Montana","fips":30061,"sulfur":283.78476616,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343d9"},"name":"Flathead","state":"Montana","fips":30029,"sulfur":25.3604247385,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343da"},"name":"Big Horn","state":"Montana","fips":30003,"sulfur":446.6161000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343db"},"name":"Broadwater","state":"Montana","fips":30007,"sulfur":93.3357,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343dc"},"name":"Ralls","state":"Missouri","fips":29173,"sulfur":101.18,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343dd"},"name":"Cascade","state":"Montana","fips":30013,"sulfur":37.1400231823,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343de"},"name":"Carbon","state":"Montana","fips":30009,"sulfur":9671.657554,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343df"},"name":"Deer Lodge","state":"Montana","fips":30023,"sulfur":1.385,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343e0"},"name":"Silver Bow","state":"Montana","fips":30093,"sulfur":22.1252506517,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343e1"},"name":"Valley","state":"Montana","fips":30105,"sulfur":2.5432701,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343e2"},"name":"Lewis and Clark","state":"Montana","fips":30049,"sulfur":2.0911484449,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343e3"},"name":"Lancaster","state":"Nebraska","fips":31109,"sulfur":4301.306915348,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343e4"},"name":"Box Butte","state":"Nebraska","fips":31013,"sulfur":23.153367790999997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343e5"},"name":"Gosper","state":"Nebraska","fips":31073,"sulfur":7.0000003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343e6"},"name":"Scotts Bluff","state":"Nebraska","fips":31157,"sulfur":156.4065460066,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343e7"},"name":"Dodge","state":"Nebraska","fips":31053,"sulfur":1619.4416848,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343e8"},"name":"Fillmore","state":"Nebraska","fips":31059,"sulfur":3.95,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343e9"},"name":"Dawes","state":"Nebraska","fips":31045,"sulfur":2.10017,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343ea"},"name":"Sarpy","state":"Nebraska","fips":31153,"sulfur":2.6850006,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343eb"},"name":"Buffalo","state":"Nebraska","fips":31019,"sulfur":6052.545129679,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343ec"},"name":"Gage","state":"Nebraska","fips":31067,"sulfur":46.2267521,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343ed"},"name":"Kearney","state":"Nebraska","fips":31099,"sulfur":4.762,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343ee"},"name":"Hitchcock","state":"Nebraska","fips":31087,"sulfur":1.89,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343ef"},"name":"Cheyenne","state":"Nebraska","fips":31033,"sulfur":1.5,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343f0"},"name":"Otoe","state":"Nebraska","fips":31131,"sulfur":17335.8405352,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343f1"},"name":"Colfax","state":"Nebraska","fips":31037,"sulfur":69.70738,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343f2"},"name":"Dawson","state":"Nebraska","fips":31047,"sulfur":3.6400001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343f3"},"name":"Stanton","state":"Nebraska","fips":31167,"sulfur":193.5203702,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343f4"},"name":"Red Willow","state":"Nebraska","fips":31145,"sulfur":1.0107029376,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343f5"},"name":"Nemaha","state":"Nebraska","fips":31127,"sulfur":1.24,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343f6"},"name":"Nye","state":"Nevada","fips":32023,"sulfur":86.25432073249999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343f7"},"name":"Storey","state":"Nevada","fips":32029,"sulfur":99.83884092,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343f8"},"name":"Elko","state":"Nevada","fips":32007,"sulfur":48.141447843899996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343f9"},"name":"Esmeralda","state":"Nevada","fips":32009,"sulfur":43.734384999999996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343fa"},"name":"Washoe","state":"Nevada","fips":32031,"sulfur":54.3223550246,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343fb"},"name":"Churchill","state":"Nevada","fips":32001,"sulfur":28.638429,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343fc"},"name":"White Pine","state":"Nevada","fips":32033,"sulfur":7.14191,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343fd"},"name":"Eureka","state":"Nevada","fips":32011,"sulfur":339.77468016,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343fe"},"name":"Pershing","state":"Nevada","fips":32027,"sulfur":151.90311359999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496343ff"},"name":"Lander","state":"Nevada","fips":32015,"sulfur":2.782969,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634400"},"name":"Rockingham","state":"New Hampshire","fips":33015,"sulfur":5134.348437720001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634401"},"name":"Merrimack","state":"New Hampshire","fips":33013,"sulfur":22506.784470420003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634402"},"name":"Coos","state":"New Hampshire","fips":33007,"sulfur":168.47967309999996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634403"},"name":"Strafford","state":"New Hampshire","fips":33017,"sulfur":50.6088933,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634404"},"name":"Grafton","state":"New Hampshire","fips":33009,"sulfur":579.378874,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634405"},"name":"Cheshire","state":"New Hampshire","fips":33005,"sulfur":3.230289,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634406"},"name":"Ocean","state":"New Jersey","fips":34029,"sulfur":25.407200000000003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634407"},"name":"Gloucester","state":"New Jersey","fips":34015,"sulfur":744.7253505,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634408"},"name":"Monmouth","state":"New Jersey","fips":34025,"sulfur":30.3551,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634409"},"name":"Salem","state":"New Jersey","fips":34033,"sulfur":1275.6371000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963440a"},"name":"Morris","state":"New Jersey","fips":34027,"sulfur":6.781499999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963440b"},"name":"Hudson","state":"New Jersey","fips":34017,"sulfur":1082.464,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963440c"},"name":"Burlington","state":"New Jersey","fips":34005,"sulfur":87.5485369798,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963440d"},"name":"Atlantic","state":"New Jersey","fips":34001,"sulfur":114.5676438172,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963440e"},"name":"Bergen","state":"New Jersey","fips":34003,"sulfur":69.8130763012,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963440f"},"name":"Passaic","state":"New Jersey","fips":34031,"sulfur":13.0475,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634410"},"name":"Cape May","state":"New Jersey","fips":34009,"sulfur":1294.9526999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634411"},"name":"Camden","state":"New Jersey","fips":34007,"sulfur":59.291500000000006,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634412"},"name":"Hunterdon","state":"New Jersey","fips":34019,"sulfur":1.78,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634413"},"name":"San Juan","state":"New Mexico","fips":35045,"sulfur":5505.111984041014,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634414"},"name":"Lea","state":"New Mexico","fips":35025,"sulfur":10190.731999999996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634415"},"name":"Eddy","state":"New Mexico","fips":35015,"sulfur":2207.28847631291,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634416"},"name":"Bernalillo","state":"New Mexico","fips":35001,"sulfur":771.0359703662,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634417"},"name":"Luna","state":"New Mexico","fips":35029,"sulfur":4.105,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634418"},"name":"Santa Fe","state":"New Mexico","fips":35049,"sulfur":1.3434012045,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634419"},"name":"Rio Arriba","state":"New Mexico","fips":35039,"sulfur":7.5,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963441a"},"name":"McKinley","state":"New Mexico","fips":35031,"sulfur":1307.932,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963441b"},"name":"Valencia","state":"New Mexico","fips":35061,"sulfur":1.10677,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963441c"},"name":"Los Alamos","state":"New Mexico","fips":35028,"sulfur":1.208,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963441d"},"name":"Chaves","state":"New Mexico","fips":35005,"sulfur":1.1563459213,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963441e"},"name":"Roosevelt","state":"New Mexico","fips":35041,"sulfur":4.89,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963441f"},"name":"Albany","state":"New York","fips":36001,"sulfur":10264.252275629498,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634420"},"name":"Erie","state":"New York","fips":36029,"sulfur":5168.2053627425985,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634421"},"name":"Saratoga","state":"New York","fips":36091,"sulfur":3.128665,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634422"},"name":"New York","state":"New York","fips":36061,"sulfur":1279.40173974,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634423"},"name":"Westchester","state":"New York","fips":36119,"sulfur":228.204059899,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634424"},"name":"Chautauqua","state":"New York","fips":36013,"sulfur":6358.200005374,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634425"},"name":"Queens","state":"New York","fips":36081,"sulfur":935.7685826381003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634426"},"name":"Bronx","state":"New York","fips":36005,"sulfur":120.59102230000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634427"},"name":"Broome","state":"New York","fips":36007,"sulfur":141.20191548399998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634428"},"name":"Ontario","state":"New York","fips":36069,"sulfur":220.69379750000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634429"},"name":"Oswego","state":"New York","fips":36075,"sulfur":406.2877559,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963442a"},"name":"Onondaga","state":"New York","fips":36067,"sulfur":1993.8252842695,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963442b"},"name":"Niagara","state":"New York","fips":36063,"sulfur":10760.852674571799,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963442c"},"name":"Ulster","state":"New York","fips":36111,"sulfur":32.777778,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963442d"},"name":"Wyoming","state":"New York","fips":36121,"sulfur":1436.19791575,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963442e"},"name":"Steuben","state":"New York","fips":36101,"sulfur":1.573245,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963442f"},"name":"Tompkins","state":"New York","fips":36109,"sulfur":10616.762002010999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634430"},"name":"Schenectady","state":"New York","fips":36093,"sulfur":49.957956100000004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634431"},"name":"Seneca","state":"New York","fips":36099,"sulfur":5109.69596,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634432"},"name":"Chemung","state":"New York","fips":36015,"sulfur":389.7380939848,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634433"},"name":"Lewis","state":"New York","fips":36049,"sulfur":1221.134994565,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634434"},"name":"Oneida","state":"New York","fips":36065,"sulfur":2452.448024698,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634435"},"name":"St. Lawrence","state":"New York","fips":36089,"sulfur":2682.3393401,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634436"},"name":"Rockland","state":"New York","fips":36087,"sulfur":8.080019604,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634437"},"name":"Yates","state":"New York","fips":36123,"sulfur":82.347475,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634438"},"name":"Cayuga","state":"New York","fips":36011,"sulfur":160.69670470999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634439"},"name":"Rensselaer","state":"New York","fips":36083,"sulfur":20.280485,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963443a"},"name":"Schuyler","state":"New York","fips":36097,"sulfur":910.55194345,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963443b"},"name":"Dutchess","state":"New York","fips":36027,"sulfur":27.026583,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963443c"},"name":"Granville","state":"North Carolina","fips":37077,"sulfur":85.33000000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963443d"},"name":"Davidson","state":"North Carolina","fips":37057,"sulfur":311.73,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963443e"},"name":"Mecklenburg","state":"North Carolina","fips":37119,"sulfur":665.4029116122999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963443f"},"name":"Halifax","state":"North Carolina","fips":37083,"sulfur":3348.6300069999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634440"},"name":"Iredell","state":"North Carolina","fips":37097,"sulfur":490.24999999999994,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634441"},"name":"Wilkes","state":"North Carolina","fips":37193,"sulfur":13.88,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634442"},"name":"Catawba","state":"North Carolina","fips":37035,"sulfur":3911.21,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634443"},"name":"Duplin","state":"North Carolina","fips":37061,"sulfur":560.05,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634444"},"name":"New Hanover","state":"North Carolina","fips":37129,"sulfur":13448.390521783802,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634445"},"name":"Johnston","state":"North Carolina","fips":37101,"sulfur":23.689799999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634446"},"name":"Pitt","state":"North Carolina","fips":37147,"sulfur":29.2446847673,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634447"},"name":"Ashe","state":"North Carolina","fips":37009,"sulfur":7.91,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634448"},"name":"Hertford","state":"North Carolina","fips":37091,"sulfur":257.93,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634449"},"name":"Gaston","state":"North Carolina","fips":37071,"sulfur":8794.1,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963444a"},"name":"Craven","state":"North Carolina","fips":37049,"sulfur":1147.8484009509998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963444b"},"name":"Pasquotank","state":"North Carolina","fips":37139,"sulfur":13.63,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963444c"},"name":"Carteret","state":"North Carolina","fips":37031,"sulfur":30.66,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963444d"},"name":"Sampson","state":"North Carolina","fips":37163,"sulfur":58.35,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963444e"},"name":"McDowell","state":"North Carolina","fips":37111,"sulfur":37.974000000000004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963444f"},"name":"Wake","state":"North Carolina","fips":37183,"sulfur":172.81404412989997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634450"},"name":"Durham","state":"North Carolina","fips":37063,"sulfur":111.88,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634451"},"name":"Brunswick","state":"North Carolina","fips":37019,"sulfur":4484.549999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634452"},"name":"Anson","state":"North Carolina","fips":37007,"sulfur":25.69,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634453"},"name":"Beaufort","state":"North Carolina","fips":37013,"sulfur":5407.480185506,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634454"},"name":"Harnett","state":"North Carolina","fips":37085,"sulfur":10.96,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634455"},"name":"Guilford","state":"North Carolina","fips":37081,"sulfur":69.8305608023,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634456"},"name":"Burke","state":"North Carolina","fips":37023,"sulfur":330.58067,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634457"},"name":"Nash","state":"North Carolina","fips":37127,"sulfur":10.87,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634458"},"name":"Alamance","state":"North Carolina","fips":37001,"sulfur":19.48,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634459"},"name":"Swain","state":"North Carolina","fips":37173,"sulfur":1.81,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963445a"},"name":"Buncombe","state":"North Carolina","fips":37021,"sulfur":2260.2338984108,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963445b"},"name":"Person","state":"North Carolina","fips":37145,"sulfur":17553.2,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963445c"},"name":"Onslow","state":"North Carolina","fips":37133,"sulfur":668.2212284499001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963445d"},"name":"Stokes","state":"North Carolina","fips":37169,"sulfur":3317.1079999999997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963445e"},"name":"Stanly","state":"North Carolina","fips":37167,"sulfur":190.4,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963445f"},"name":"Caldwell","state":"North Carolina","fips":37027,"sulfur":381.2369,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634460"},"name":"Cleveland","state":"North Carolina","fips":37045,"sulfur":37.54,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634461"},"name":"Edgecombe","state":"North Carolina","fips":37065,"sulfur":352.49677,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634462"},"name":"Lenoir","state":"North Carolina","fips":37107,"sulfur":206.33999999999997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634463"},"name":"Cabarrus","state":"North Carolina","fips":37025,"sulfur":41.17,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634464"},"name":"Scotland","state":"North Carolina","fips":37165,"sulfur":331.92,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634465"},"name":"Rutherford","state":"North Carolina","fips":37161,"sulfur":313.05,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634466"},"name":"Caswell","state":"North Carolina","fips":37033,"sulfur":6.28,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634467"},"name":"Columbus","state":"North Carolina","fips":37047,"sulfur":1049.1100000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634468"},"name":"Bertie","state":"North Carolina","fips":37015,"sulfur":21.86,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634469"},"name":"Haywood","state":"North Carolina","fips":37087,"sulfur":8518.02,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963446a"},"name":"Avery","state":"North Carolina","fips":37011,"sulfur":1.6,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963446b"},"name":"Moore","state":"North Carolina","fips":37125,"sulfur":759.2779,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963446c"},"name":"Bladen","state":"North Carolina","fips":37017,"sulfur":14.09,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963446d"},"name":"Surry","state":"North Carolina","fips":37171,"sulfur":23.48145095,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963446e"},"name":"Northampton","state":"North Carolina","fips":37131,"sulfur":19225.5582,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963446f"},"name":"Robeson","state":"North Carolina","fips":37155,"sulfur":1944.8500000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634470"},"name":"Hoke","state":"North Carolina","fips":37093,"sulfur":1.35,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634471"},"name":"Watauga","state":"North Carolina","fips":37189,"sulfur":3.54,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634472"},"name":"Gates","state":"North Carolina","fips":37073,"sulfur":1.1,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634473"},"name":"Vance","state":"North Carolina","fips":37181,"sulfur":128.48,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634474"},"name":"Pembina","state":"North Dakota","fips":38067,"sulfur":531.2,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634475"},"name":"Stark","state":"North Dakota","fips":38089,"sulfur":449.80390153799993,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634476"},"name":"Williams","state":"North Dakota","fips":38105,"sulfur":1180.4764805459,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634477"},"name":"Grand Forks","state":"North Dakota","fips":38035,"sulfur":566.8005538591,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634478"},"name":"Morton","state":"North Dakota","fips":38059,"sulfur":3573.1,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634479"},"name":"Ward","state":"North Dakota","fips":38101,"sulfur":6.9708210898,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963447a"},"name":"McKenzie","state":"North Dakota","fips":38053,"sulfur":115.80000000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963447b"},"name":"Stutsman","state":"North Dakota","fips":38093,"sulfur":1.1057740768,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963447c"},"name":"Dunn","state":"North Dakota","fips":38025,"sulfur":100.51060109,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963447d"},"name":"Barnes","state":"North Dakota","fips":38003,"sulfur":2.8,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963447e"},"name":"Traill","state":"North Dakota","fips":38097,"sulfur":478.5,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963447f"},"name":"Ransom","state":"North Dakota","fips":38073,"sulfur":43.2,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634480"},"name":"Oliver","state":"North Dakota","fips":38065,"sulfur":5917.6,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634481"},"name":"Burleigh","state":"North Dakota","fips":38015,"sulfur":4.0840209017,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634482"},"name":"McIntosh","state":"North Dakota","fips":38051,"sulfur":6,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634483"},"name":"Billings","state":"North Dakota","fips":38007,"sulfur":279.74,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634484"},"name":"Portage","state":"Ohio","fips":39133,"sulfur":95.03417379999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634485"},"name":"Tuscarawas","state":"Ohio","fips":39157,"sulfur":2354.5687740000003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634486"},"name":"Wood","state":"Ohio","fips":39173,"sulfur":15438.191118949999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634487"},"name":"Coshocton","state":"Ohio","fips":39031,"sulfur":9468.365363,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634488"},"name":"Cuyahoga","state":"Ohio","fips":39035,"sulfur":6478.2527070372,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634489"},"name":"Scioto","state":"Ohio","fips":39145,"sulfur":1722.57921,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963448a"},"name":"Lucas","state":"Ohio","fips":39095,"sulfur":12575.625243584402,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963448b"},"name":"Ross","state":"Ohio","fips":39141,"sulfur":19696.904141,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963448c"},"name":"Auglaize","state":"Ohio","fips":39011,"sulfur":362.224016,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963448d"},"name":"Van Wert","state":"Ohio","fips":39161,"sulfur":806.21,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963448e"},"name":"Licking","state":"Ohio","fips":39089,"sulfur":357.240765,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963448f"},"name":"Lorain","state":"Ohio","fips":39093,"sulfur":32413.539676000004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634490"},"name":"Pickaway","state":"Ohio","fips":39129,"sulfur":1269.41152418,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634491"},"name":"Columbiana","state":"Ohio","fips":39029,"sulfur":3.7954,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634492"},"name":"Gallia","state":"Ohio","fips":39053,"sulfur":176181.56,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634493"},"name":"Ashtabula","state":"Ohio","fips":39007,"sulfur":3479.69,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634494"},"name":"Defiance","state":"Ohio","fips":39039,"sulfur":34.742050000000006,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634495"},"name":"Mahoning","state":"Ohio","fips":39099,"sulfur":1339.3301864999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634496"},"name":"Darke","state":"Ohio","fips":39037,"sulfur":12.021,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634497"},"name":"Medina","state":"Ohio","fips":39103,"sulfur":93.2781585115,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634498"},"name":"Hocking","state":"Ohio","fips":39073,"sulfur":6.84,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634499"},"name":"Trumbull","state":"Ohio","fips":39155,"sulfur":7191.504532999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963449a"},"name":"Muskingum","state":"Ohio","fips":39119,"sulfur":192.213279,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963449b"},"name":"Sandusky","state":"Ohio","fips":39143,"sulfur":1546.06,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963449c"},"name":"Guernsey","state":"Ohio","fips":39059,"sulfur":769.4,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963449d"},"name":"Athens","state":"Ohio","fips":39009,"sulfur":1252.68165,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963449e"},"name":"Paulding","state":"Ohio","fips":39125,"sulfur":1391,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963449f"},"name":"Ashland","state":"Ohio","fips":39005,"sulfur":288.884325,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344a0"},"name":"Clermont","state":"Ohio","fips":39025,"sulfur":108882.6206755,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344a1"},"name":"Geauga","state":"Ohio","fips":39055,"sulfur":4.435,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344a2"},"name":"Holmes","state":"Ohio","fips":39075,"sulfur":4.61,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344a3"},"name":"Wyandot","state":"Ohio","fips":39175,"sulfur":4.65,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344a4"},"name":"Belmont","state":"Ohio","fips":39013,"sulfur":1.56,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344a5"},"name":"Woodward","state":"Oklahoma","fips":40153,"sulfur":5.5120000000000005,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344a6"},"name":"Sequoyah","state":"Oklahoma","fips":40135,"sulfur":62.849,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344a7"},"name":"Mayes","state":"Oklahoma","fips":40097,"sulfur":19997.300000000003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344a8"},"name":"Wagoner","state":"Oklahoma","fips":40145,"sulfur":6.81,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344a9"},"name":"Muskogee","state":"Oklahoma","fips":40101,"sulfur":29260.804,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344aa"},"name":"Oklahoma","state":"Oklahoma","fips":40109,"sulfur":82.5585612298,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344ab"},"name":"Dewey","state":"Oklahoma","fips":40043,"sulfur":56.336999999999996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344ac"},"name":"Pontotoc","state":"Oklahoma","fips":40123,"sulfur":2851.638,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344ad"},"name":"Latimer","state":"Oklahoma","fips":40077,"sulfur":13.261,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344ae"},"name":"Pittsburg","state":"Oklahoma","fips":40121,"sulfur":1.569,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344af"},"name":"Texas","state":"Oklahoma","fips":40139,"sulfur":8.36,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344b0"},"name":"Custer","state":"Oklahoma","fips":40039,"sulfur":6.093,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344b1"},"name":"Rogers","state":"Oklahoma","fips":40131,"sulfur":18138.420000000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344b2"},"name":"Garvin","state":"Oklahoma","fips":40049,"sulfur":819.644,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344b3"},"name":"Tulsa","state":"Oklahoma","fips":40143,"sulfur":2704.3989678282005,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344b4"},"name":"Roger Mills","state":"Oklahoma","fips":40129,"sulfur":14.205,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344b5"},"name":"Beckham","state":"Oklahoma","fips":40009,"sulfur":406.68199999999996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344b6"},"name":"Stephens","state":"Oklahoma","fips":40137,"sulfur":8.633000000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344b7"},"name":"Kay","state":"Oklahoma","fips":40071,"sulfur":1713.226,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344b8"},"name":"Le Flore","state":"Oklahoma","fips":40079,"sulfur":3344.2,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344b9"},"name":"Kingfisher","state":"Oklahoma","fips":40073,"sulfur":16.973,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344ba"},"name":"Bryan","state":"Oklahoma","fips":40013,"sulfur":228.82999999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344bb"},"name":"Canadian","state":"Oklahoma","fips":40017,"sulfur":4.223,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344bc"},"name":"Grady","state":"Oklahoma","fips":40051,"sulfur":4.741,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344bd"},"name":"Comanche","state":"Oklahoma","fips":40031,"sulfur":2.195,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344be"},"name":"Okmulgee","state":"Oklahoma","fips":40111,"sulfur":109.753,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344bf"},"name":"Payne","state":"Oklahoma","fips":40119,"sulfur":1.448,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344c0"},"name":"McCurtain","state":"Oklahoma","fips":40089,"sulfur":62.305,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344c1"},"name":"McClain","state":"Oklahoma","fips":40087,"sulfur":6.696,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344c2"},"name":"Creek","state":"Oklahoma","fips":40037,"sulfur":212.33,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344c3"},"name":"Lane","state":"Oregon","fips":41039,"sulfur":96.3949013877,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344c4"},"name":"Klamath","state":"Oregon","fips":41035,"sulfur":26.61079,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344c5"},"name":"Yamhill","state":"Oregon","fips":41071,"sulfur":741.828,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344c6"},"name":"Deschutes","state":"Oregon","fips":41017,"sulfur":8.4016518364,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344c7"},"name":"Baker","state":"Oregon","fips":41001,"sulfur":27.93385,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344c8"},"name":"Josephine","state":"Oregon","fips":41033,"sulfur":3.2472,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344c9"},"name":"Multnomah","state":"Oregon","fips":41051,"sulfur":304.9985181739,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344ca"},"name":"Tillamook","state":"Oregon","fips":41057,"sulfur":7.29,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344cb"},"name":"Morrow","state":"Oregon","fips":41049,"sulfur":13130.644953999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344cc"},"name":"Umatilla","state":"Oregon","fips":41059,"sulfur":17.26892,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344cd"},"name":"Curry","state":"Oregon","fips":41015,"sulfur":3.73,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344ce"},"name":"Malheur","state":"Oregon","fips":41045,"sulfur":142,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344cf"},"name":"Clatsop","state":"Oregon","fips":41007,"sulfur":707.974,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344d0"},"name":"Gilliam","state":"Oregon","fips":41021,"sulfur":21.41337,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344d1"},"name":"Sherman","state":"Oregon","fips":41055,"sulfur":2.743,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344d2"},"name":"Clackamas","state":"Oregon","fips":41005,"sulfur":4.6647099999999995,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344d3"},"name":"Indiana","state":"Pennsylvania","fips":42063,"sulfur":97797.8441,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344d4"},"name":"Lackawanna","state":"Pennsylvania","fips":42069,"sulfur":110.98369999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344d5"},"name":"Berks","state":"Pennsylvania","fips":42011,"sulfur":4648.793299999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344d6"},"name":"Montour","state":"Pennsylvania","fips":42093,"sulfur":17810.054799999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344d7"},"name":"Cambria","state":"Pennsylvania","fips":42021,"sulfur":6763.974399999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344d8"},"name":"Westmoreland","state":"Pennsylvania","fips":42129,"sulfur":175.21419999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344d9"},"name":"Allegheny","state":"Pennsylvania","fips":42003,"sulfur":13448.8099153393,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344da"},"name":"Bucks","state":"Pennsylvania","fips":42017,"sulfur":252.0534,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344db"},"name":"Schuylkill","state":"Pennsylvania","fips":42107,"sulfur":4657.2618,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344dc"},"name":"Luzerne","state":"Pennsylvania","fips":42079,"sulfur":165.48956599370004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344dd"},"name":"Elk","state":"Pennsylvania","fips":42047,"sulfur":622.8234,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344de"},"name":"McKean","state":"Pennsylvania","fips":42083,"sulfur":2938.8634537433,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344df"},"name":"Philadelphia","state":"Pennsylvania","fips":42101,"sulfur":718.6642,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344e0"},"name":"Dauphin","state":"Pennsylvania","fips":42043,"sulfur":86.6927559007,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344e1"},"name":"Chester","state":"Pennsylvania","fips":42029,"sulfur":1181.073858688,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344e2"},"name":"Blair","state":"Pennsylvania","fips":42013,"sulfur":3714.16572,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344e3"},"name":"Lehigh","state":"Pennsylvania","fips":42077,"sulfur":369.7984742341,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344e4"},"name":"Lebanon","state":"Pennsylvania","fips":42075,"sulfur":278.01980000000003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344e5"},"name":"Snyder","state":"Pennsylvania","fips":42109,"sulfur":16009.4216,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344e6"},"name":"Juniata","state":"Pennsylvania","fips":42067,"sulfur":2.98,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344e7"},"name":"Venango","state":"Pennsylvania","fips":42121,"sulfur":2075.5364999999997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344e8"},"name":"Beaver","state":"Pennsylvania","fips":42007,"sulfur":26705.73422,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344e9"},"name":"Centre","state":"Pennsylvania","fips":42027,"sulfur":1741.0296164062001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344ea"},"name":"Northumberland","state":"Pennsylvania","fips":42097,"sulfur":554.9892424999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344eb"},"name":"Tioga","state":"Pennsylvania","fips":42117,"sulfur":51.365899999999996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344ec"},"name":"Clearfield","state":"Pennsylvania","fips":42033,"sulfur":25221.5857,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344ed"},"name":"Armstrong","state":"Pennsylvania","fips":42005,"sulfur":72215.8695,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344ee"},"name":"Huntingdon","state":"Pennsylvania","fips":42061,"sulfur":203.4155,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344ef"},"name":"Lycoming","state":"Pennsylvania","fips":42081,"sulfur":81.93339999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344f0"},"name":"Mifflin","state":"Pennsylvania","fips":42087,"sulfur":8.5658,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344f1"},"name":"Potter","state":"Pennsylvania","fips":42105,"sulfur":15223.771772233798,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344f2"},"name":"Clarion","state":"Pennsylvania","fips":42031,"sulfur":1481.1351,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344f3"},"name":"Providence","state":"Rhode Island","fips":44007,"sulfur":776.9497350000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344f4"},"name":"Newport","state":"Rhode Island","fips":44005,"sulfur":21.900999999999996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344f5"},"name":"Greenville","state":"South Carolina","fips":45045,"sulfur":117.66272326776799,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344f6"},"name":"Lexington","state":"South Carolina","fips":45063,"sulfur":7354.2328803789,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344f7"},"name":"Berkeley","state":"South Carolina","fips":45015,"sulfur":22217.833409022198,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344f8"},"name":"Georgetown","state":"South Carolina","fips":45043,"sulfur":6149.2945070000005,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344f9"},"name":"Orangeburg","state":"South Carolina","fips":45075,"sulfur":1720.0065803,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344fa"},"name":"Spartanburg","state":"South Carolina","fips":45083,"sulfur":34.1989737823,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344fb"},"name":"Williamsburg","state":"South Carolina","fips":45089,"sulfur":4.459607,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344fc"},"name":"Horry","state":"South Carolina","fips":45051,"sulfur":3097.3218728294,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344fd"},"name":"Florence","state":"South Carolina","fips":45041,"sulfur":1315.308901,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344fe"},"name":"Barnwell","state":"South Carolina","fips":45011,"sulfur":4415.17962468605,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496344ff"},"name":"Charleston","state":"South Carolina","fips":45019,"sulfur":1914.7115022287,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634500"},"name":"Darlington","state":"South Carolina","fips":45031,"sulfur":6814.555963219999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634501"},"name":"Aiken","state":"South Carolina","fips":45003,"sulfur":4855.090988573999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634502"},"name":"Newberry","state":"South Carolina","fips":45071,"sulfur":6.56441,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634503"},"name":"Marlboro","state":"South Carolina","fips":45069,"sulfur":37.832777500000006,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634504"},"name":"Hampton","state":"South Carolina","fips":45049,"sulfur":29.765720467999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634505"},"name":"Oconee","state":"South Carolina","fips":45073,"sulfur":1.44441,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634506"},"name":"Colleton","state":"South Carolina","fips":45029,"sulfur":15631.60869654,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634507"},"name":"Kershaw","state":"South Carolina","fips":45055,"sulfur":1073.4024007,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634508"},"name":"Allendale","state":"South Carolina","fips":45005,"sulfur":50.401479,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634509"},"name":"Abbeville","state":"South Carolina","fips":45001,"sulfur":10.977171,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963450a"},"name":"McCormick","state":"South Carolina","fips":45065,"sulfur":3.44016,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963450b"},"name":"Minnehaha","state":"South Dakota","fips":46099,"sulfur":65.5984387795,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963450c"},"name":"Brookings","state":"South Dakota","fips":46011,"sulfur":262.5,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963450d"},"name":"Pennington","state":"South Dakota","fips":46103,"sulfur":705.3541088555999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963450e"},"name":"Turner","state":"South Dakota","fips":46125,"sulfur":68.39999999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963450f"},"name":"Hughes","state":"South Dakota","fips":46065,"sulfur":1.7904851606,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634510"},"name":"Spink","state":"South Dakota","fips":46115,"sulfur":42.1,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634511"},"name":"Deuel","state":"South Dakota","fips":46039,"sulfur":7.3,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634512"},"name":"Codington","state":"South Dakota","fips":46029,"sulfur":13.310295289799999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634513"},"name":"Edmunds","state":"South Dakota","fips":46045,"sulfur":7.1,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634514"},"name":"Davison","state":"South Dakota","fips":46035,"sulfur":1.6,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634515"},"name":"Freestone","state":"Texas","fips":48161,"sulfur":64420.123100000004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634516"},"name":"Fort Bend","state":"Texas","fips":48157,"sulfur":49553.0292,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634517"},"name":"Pecos","state":"Texas","fips":48371,"sulfur":470.5786,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634518"},"name":"Galveston","state":"Texas","fips":48167,"sulfur":1076.0608,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634519"},"name":"Bexar","state":"Texas","fips":48029,"sulfur":23986.69229956283,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963451a"},"name":"Goliad","state":"Texas","fips":48175,"sulfur":13829.5,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963451b"},"name":"Harris","state":"Texas","fips":48201,"sulfur":12407.071948575176,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963451c"},"name":"Guadalupe","state":"Texas","fips":48187,"sulfur":121.9638355436,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963451d"},"name":"Denton","state":"Texas","fips":48121,"sulfur":256.265939021,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963451e"},"name":"Lubbock","state":"Texas","fips":48303,"sulfur":17.909178499715,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963451f"},"name":"Bastrop","state":"Texas","fips":48021,"sulfur":283.501,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634520"},"name":"Hutchinson","state":"Texas","fips":48233,"sulfur":12330.217200000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634521"},"name":"Bowie","state":"Texas","fips":48037,"sulfur":165.46609,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634522"},"name":"Brazoria","state":"Texas","fips":48039,"sulfur":1323.6573918867002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634523"},"name":"Wise","state":"Texas","fips":48497,"sulfur":10.612300000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634524"},"name":"Wilbarger","state":"Texas","fips":48487,"sulfur":3756.478,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634525"},"name":"Gray","state":"Texas","fips":48179,"sulfur":840.27,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634526"},"name":"Camp","state":"Texas","fips":48063,"sulfur":104.8595,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634527"},"name":"Grimes","state":"Texas","fips":48185,"sulfur":2659.266,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634528"},"name":"Live Oak","state":"Texas","fips":48297,"sulfur":191.1402,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634529"},"name":"Tarrant","state":"Texas","fips":48439,"sulfur":401.86865629100004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963452a"},"name":"McLennan","state":"Texas","fips":48309,"sulfur":1019.8538333644001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963452b"},"name":"Terry","state":"Texas","fips":48445,"sulfur":46.43,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963452c"},"name":"Nueces","state":"Texas","fips":48355,"sulfur":986.0009488569001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963452d"},"name":"Angelina","state":"Texas","fips":48005,"sulfur":15.6867,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963452e"},"name":"Ector","state":"Texas","fips":48135,"sulfur":1084.29943,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963452f"},"name":"Hays","state":"Texas","fips":48209,"sulfur":1176.2372,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634530"},"name":"Bell","state":"Texas","fips":48027,"sulfur":74.77706587990001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634531"},"name":"Andrews","state":"Texas","fips":48003,"sulfur":1048.8842,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634532"},"name":"Hidalgo","state":"Texas","fips":48215,"sulfur":58.674323798500005,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634533"},"name":"Yoakum","state":"Texas","fips":48501,"sulfur":242.0042,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634534"},"name":"Hudspeth","state":"Texas","fips":48229,"sulfur":4.5776,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634535"},"name":"Limestone","state":"Texas","fips":48293,"sulfur":25121.332,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634536"},"name":"Crockett","state":"Texas","fips":48105,"sulfur":159.9175,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634537"},"name":"Victoria","state":"Texas","fips":48469,"sulfur":14.291300000000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634538"},"name":"Travis","state":"Texas","fips":48453,"sulfur":321.221876529464,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634539"},"name":"San Patricio","state":"Texas","fips":48409,"sulfur":21.269,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963453a"},"name":"Brazos","state":"Texas","fips":48041,"sulfur":10.820368130999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963453b"},"name":"DeWitt","state":"Texas","fips":48123,"sulfur":69.3793,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963453c"},"name":"Lavaca","state":"Texas","fips":48285,"sulfur":285.305,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963453d"},"name":"Webb","state":"Texas","fips":48479,"sulfur":9.7200259688,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963453e"},"name":"Collin","state":"Texas","fips":48085,"sulfur":664.10949782,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963453f"},"name":"Comal","state":"Texas","fips":48091,"sulfur":343.90770000000003,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634540"},"name":"Milam","state":"Texas","fips":48331,"sulfur":26151.7733,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634541"},"name":"Jack","state":"Texas","fips":48237,"sulfur":9.65,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634542"},"name":"Titus","state":"Texas","fips":48449,"sulfur":80063.07847000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634543"},"name":"Fisher","state":"Texas","fips":48151,"sulfur":21.781,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634544"},"name":"Gregg","state":"Texas","fips":48183,"sulfur":38.6095,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634545"},"name":"Atascosa","state":"Texas","fips":48013,"sulfur":10194.7173,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634546"},"name":"Borden","state":"Texas","fips":48033,"sulfur":2.9703,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634547"},"name":"Hansford","state":"Texas","fips":48195,"sulfur":990.9989999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634548"},"name":"Robertson","state":"Texas","fips":48395,"sulfur":11050.349100000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634549"},"name":"Nacogdoches","state":"Texas","fips":48347,"sulfur":3.815,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963454a"},"name":"Sterling","state":"Texas","fips":48431,"sulfur":1.5264,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963454b"},"name":"Upshur","state":"Texas","fips":48459,"sulfur":62.0463,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963454c"},"name":"Nolan","state":"Texas","fips":48353,"sulfur":49.5422,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963454d"},"name":"Lamb","state":"Texas","fips":48279,"sulfur":19811.3839,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963454e"},"name":"Jim Wells","state":"Texas","fips":48249,"sulfur":10.2,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963454f"},"name":"Hockley","state":"Texas","fips":48219,"sulfur":820.79,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634550"},"name":"Kleberg","state":"Texas","fips":48273,"sulfur":1.1718,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634551"},"name":"Coke","state":"Texas","fips":48081,"sulfur":7.5454,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634552"},"name":"Palo Pinto","state":"Texas","fips":48363,"sulfur":84.71419999999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634553"},"name":"Matagorda","state":"Texas","fips":48321,"sulfur":20.6506,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634554"},"name":"Wheeler","state":"Texas","fips":48483,"sulfur":144.7162,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634555"},"name":"Glasscock","state":"Texas","fips":48173,"sulfur":29.25,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634556"},"name":"Karnes","state":"Texas","fips":48255,"sulfur":26.2994,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634557"},"name":"Upton","state":"Texas","fips":48461,"sulfur":18.770400000000002,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634558"},"name":"Llano","state":"Texas","fips":48299,"sulfur":1.382,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634559"},"name":"Hunt","state":"Texas","fips":48231,"sulfur":1.0719,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963455a"},"name":"Rusk","state":"Texas","fips":48401,"sulfur":69088.83397811498,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963455b"},"name":"Austin","state":"Texas","fips":48015,"sulfur":71.7406,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963455c"},"name":"McMullen","state":"Texas","fips":48311,"sulfur":9.6817,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963455d"},"name":"Parker","state":"Texas","fips":48367,"sulfur":76.0467,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963455e"},"name":"Wichita","state":"Texas","fips":48485,"sulfur":473.9506698704,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963455f"},"name":"Tom Green","state":"Texas","fips":48451,"sulfur":2.2551772813,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634560"},"name":"Kaufman","state":"Texas","fips":48257,"sulfur":170.5458,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634561"},"name":"Hood","state":"Texas","fips":48221,"sulfur":5.8161,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634562"},"name":"Colorado","state":"Texas","fips":48089,"sulfur":3.24605,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634563"},"name":"Winkler","state":"Texas","fips":48495,"sulfur":133.9759,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634564"},"name":"Navarro","state":"Texas","fips":48349,"sulfur":3730.7895999999996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634565"},"name":"Hemphill","state":"Texas","fips":48211,"sulfur":84.8322,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634566"},"name":"Gaines","state":"Texas","fips":48165,"sulfur":403.83,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634567"},"name":"Jim Hogg","state":"Texas","fips":48247,"sulfur":3.5241,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634568"},"name":"Waller","state":"Texas","fips":48473,"sulfur":1.249,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634569"},"name":"Young","state":"Texas","fips":48503,"sulfur":1.0784,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963456a"},"name":"Starr","state":"Texas","fips":48427,"sulfur":2.1876,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963456b"},"name":"Parmer","state":"Texas","fips":48369,"sulfur":24.234,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963456c"},"name":"Montague","state":"Texas","fips":48337,"sulfur":1.46,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963456d"},"name":"Dimmit","state":"Texas","fips":48127,"sulfur":1.7815,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963456e"},"name":"Bee","state":"Texas","fips":48025,"sulfur":479.9726,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963456f"},"name":"Frio","state":"Texas","fips":48163,"sulfur":38.9784,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634570"},"name":"Zapata","state":"Texas","fips":48505,"sulfur":46.4873,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634571"},"name":"Bosque","state":"Texas","fips":48035,"sulfur":387.3114,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634572"},"name":"Randall","state":"Texas","fips":48381,"sulfur":120.5675,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634573"},"name":"Scurry","state":"Texas","fips":48415,"sulfur":2.9322,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634574"},"name":"Reagan","state":"Texas","fips":48383,"sulfur":4.2305,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634575"},"name":"Crane","state":"Texas","fips":48103,"sulfur":111.3286,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634576"},"name":"Kinney","state":"Texas","fips":48271,"sulfur":1.34749,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634577"},"name":"Reeves","state":"Texas","fips":48389,"sulfur":3.6823,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634578"},"name":"Wharton","state":"Texas","fips":48481,"sulfur":2.5809,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634579"},"name":"Val Verde","state":"Texas","fips":48465,"sulfur":71.6128,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963457a"},"name":"Tooele","state":"Utah","fips":49045,"sulfur":67.18773300000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963457b"},"name":"Salt Lake","state":"Utah","fips":49035,"sulfur":3411.0453875887,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963457c"},"name":"Weber","state":"Utah","fips":49057,"sulfur":13.719505,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963457d"},"name":"Box Elder","state":"Utah","fips":49003,"sulfur":48.48784,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963457e"},"name":"Millard","state":"Utah","fips":49027,"sulfur":4961.906824,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963457f"},"name":"Juab","state":"Utah","fips":49023,"sulfur":6.68803,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634580"},"name":"Utah","state":"Utah","fips":49049,"sulfur":106.753479,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634581"},"name":"Emery","state":"Utah","fips":49015,"sulfur":7193.007839,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634582"},"name":"Daggett","state":"Utah","fips":49009,"sulfur":1.3967,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634583"},"name":"Chittenden","state":"Vermont","fips":50007,"sulfur":12.0631786793,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634584"},"name":"Addison","state":"Vermont","fips":50001,"sulfur":152.16,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634585"},"name":"Caledonia","state":"Vermont","fips":50005,"sulfur":37.30946,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634586"},"name":"James City","state":"Virginia","fips":51095,"sulfur":418.9793045,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634587"},"name":"Virginia Beach","state":"Virginia","fips":51810,"sulfur":172.50246450470001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634588"},"name":"Chesterfield","state":"Virginia","fips":51041,"sulfur":16739.0637579,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634589"},"name":"Danville","state":"Virginia","fips":51590,"sulfur":8.854503,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963458a"},"name":"Prince William","state":"Virginia","fips":51153,"sulfur":286.7303285,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963458b"},"name":"Southampton","state":"Virginia","fips":51175,"sulfur":151.5959745,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963458c"},"name":"Patrick","state":"Virginia","fips":51141,"sulfur":10.224,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963458d"},"name":"Henrico","state":"Virginia","fips":51087,"sulfur":41.5963393359,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963458e"},"name":"Campbell","state":"Virginia","fips":51031,"sulfur":5759.572109745101,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963458f"},"name":"Rockbridge","state":"Virginia","fips":51163,"sulfur":81.94934,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634590"},"name":"Newport News","state":"Virginia","fips":51700,"sulfur":1003.5502810743,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634591"},"name":"Greensville","state":"Virginia","fips":51081,"sulfur":176.651905,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634592"},"name":"Waynesboro","state":"Virginia","fips":51820,"sulfur":567.827019,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634593"},"name":"King George","state":"Virginia","fips":51099,"sulfur":241.584044,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634594"},"name":"Chesapeake","state":"Virginia","fips":51550,"sulfur":17480.162075353,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634595"},"name":"Alleghany","state":"Virginia","fips":51005,"sulfur":357.552198,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634596"},"name":"Accomack","state":"Virginia","fips":51001,"sulfur":521.6948199999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634597"},"name":"Appomattox","state":"Virginia","fips":51011,"sulfur":2.423,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634598"},"name":"Albemarle","state":"Virginia","fips":51003,"sulfur":5.4474334134,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab849634599"},"name":"Nottoway","state":"Virginia","fips":51135,"sulfur":13.080648,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963459a"},"name":"Augusta","state":"Virginia","fips":51015,"sulfur":23.327235603,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963459b"},"name":"Fairfax","state":"Virginia","fips":51059,"sulfur":99.366553,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963459c"},"name":"Roanoke","state":"Virginia","fips":51770,"sulfur":65.3716229624,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963459d"},"name":"Spotsylvania","state":"Virginia","fips":51177,"sulfur":21.733,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963459e"},"name":"Giles","state":"Virginia","fips":51071,"sulfur":9207.056628,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab84963459f"},"name":"Bedford","state":"Virginia","fips":51019,"sulfur":1143.289639,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345a0"},"name":"Lynchburg","state":"Virginia","fips":51680,"sulfur":32.5414,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345a1"},"name":"Emporia","state":"Virginia","fips":51595,"sulfur":15.77,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345a2"},"name":"Stafford","state":"Virginia","fips":51179,"sulfur":18.3332609401,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345a3"},"name":"Loudoun","state":"Virginia","fips":51107,"sulfur":193.3510254727,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345a4"},"name":"Pittsylvania","state":"Virginia","fips":51143,"sulfur":171.50050150000004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345a5"},"name":"Hopewell","state":"Virginia","fips":51670,"sulfur":3560.508984,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345a6"},"name":"Buckingham","state":"Virginia","fips":51029,"sulfur":10.897004,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345a7"},"name":"Smyth","state":"Virginia","fips":51173,"sulfur":59.26,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345a8"},"name":"Hanover","state":"Virginia","fips":51085,"sulfur":339.43404849999996,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345a9"},"name":"Culpeper","state":"Virginia","fips":51047,"sulfur":4.195,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345aa"},"name":"Prince Edward","state":"Virginia","fips":51147,"sulfur":29.6667,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345ab"},"name":"Amherst","state":"Virginia","fips":51009,"sulfur":44.1295,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345ac"},"name":"Dickenson","state":"Virginia","fips":51051,"sulfur":22.9064,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345ad"},"name":"Alexandria","state":"Virginia","fips":51510,"sulfur":506.5924655,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345ae"},"name":"Portsmouth","state":"Virginia","fips":51740,"sulfur":574.89,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345af"},"name":"Fluvanna","state":"Virginia","fips":51065,"sulfur":6491.400716,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345b0"},"name":"Dinwiddie","state":"Virginia","fips":51053,"sulfur":15.2644885,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345b1"},"name":"Botetourt","state":"Virginia","fips":51023,"sulfur":1996.77126,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345b2"},"name":"Arlington","state":"Virginia","fips":51013,"sulfur":158.7495316446,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345b3"},"name":"Galax","state":"Virginia","fips":51640,"sulfur":5.9433655,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345b4"},"name":"Bland","state":"Virginia","fips":51021,"sulfur":26.80772,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345b5"},"name":"Goochland","state":"Virginia","fips":51075,"sulfur":57.4187,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345b6"},"name":"King William","state":"Virginia","fips":51101,"sulfur":907.884185,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345b7"},"name":"Caroline","state":"Virginia","fips":51033,"sulfur":1.48748,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345b8"},"name":"Fauquier","state":"Virginia","fips":51061,"sulfur":1.73,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345b9"},"name":"Cowlitz","state":"Washington","fips":53015,"sulfur":790.471012,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345ba"},"name":"Skagit","state":"Washington","fips":53057,"sulfur":882.92,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345bb"},"name":"King","state":"Washington","fips":53033,"sulfur":509.63621536032997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345bc"},"name":"Yakima","state":"Washington","fips":53077,"sulfur":1.5273274173,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345bd"},"name":"Spokane","state":"Washington","fips":53063,"sulfur":51.1892528156,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345be"},"name":"Chelan","state":"Washington","fips":53007,"sulfur":2908.455778961832,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345bf"},"name":"Whatcom","state":"Washington","fips":53073,"sulfur":5676.9973763696,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345c0"},"name":"Clallam","state":"Washington","fips":53009,"sulfur":124.3,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345c1"},"name":"Klickitat","state":"Washington","fips":53039,"sulfur":21,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345c2"},"name":"Whitman","state":"Washington","fips":53075,"sulfur":2.4728329222,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345c3"},"name":"Walla Walla","state":"Washington","fips":53071,"sulfur":794.9,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345c4"},"name":"Snohomish","state":"Washington","fips":53061,"sulfur":337.3507830954,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345c5"},"name":"Grays Harbor","state":"Washington","fips":53027,"sulfur":227.1,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345c6"},"name":"Pend Oreille","state":"Washington","fips":53051,"sulfur":13,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345c7"},"name":"Island","state":"Washington","fips":53029,"sulfur":1,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345c8"},"name":"Brooke","state":"West Virginia","fips":54009,"sulfur":728.7531051,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345c9"},"name":"Pleasants","state":"West Virginia","fips":54073,"sulfur":14610.6116,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345ca"},"name":"Nicholas","state":"West Virginia","fips":54067,"sulfur":2.5902,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345cb"},"name":"Preston","state":"West Virginia","fips":54077,"sulfur":6454.001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345cc"},"name":"Tucker","state":"West Virginia","fips":54093,"sulfur":16.9595,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345cd"},"name":"Mingo","state":"West Virginia","fips":54059,"sulfur":1.2972,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345ce"},"name":"Cabell","state":"West Virginia","fips":54011,"sulfur":30.7545,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345cf"},"name":"Kanawha","state":"West Virginia","fips":54039,"sulfur":12923.218439692999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345d0"},"name":"Braxton","state":"West Virginia","fips":54007,"sulfur":9.81154,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345d1"},"name":"Monongalia","state":"West Virginia","fips":54061,"sulfur":5472.303099999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345d2"},"name":"Greenbrier","state":"West Virginia","fips":54025,"sulfur":1.0983898851,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345d3"},"name":"Sauk","state":"Wisconsin","fips":55111,"sulfur":125.152474455,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345d4"},"name":"Milwaukee","state":"Wisconsin","fips":55079,"sulfur":18953.752672919094,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345d5"},"name":"Kenosha","state":"Wisconsin","fips":55059,"sulfur":948.5571944999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345d6"},"name":"Washburn","state":"Wisconsin","fips":55129,"sulfur":4.480415,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345d7"},"name":"Fond du Lac","state":"Wisconsin","fips":55039,"sulfur":86.98017191000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345d8"},"name":"Outagamie","state":"Wisconsin","fips":55087,"sulfur":8030.7255337492,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345d9"},"name":"Sawyer","state":"Wisconsin","fips":55113,"sulfur":14.46766878,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345da"},"name":"Marinette","state":"Wisconsin","fips":55075,"sulfur":12.460544200000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345db"},"name":"Manitowoc","state":"Wisconsin","fips":55071,"sulfur":1556.1527431,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345dc"},"name":"Eau Claire","state":"Wisconsin","fips":55035,"sulfur":86.43343292,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345dd"},"name":"Marathon","state":"Wisconsin","fips":55073,"sulfur":9617.307901126,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345de"},"name":"Waupaca","state":"Wisconsin","fips":55135,"sulfur":114.85335142000001,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345df"},"name":"Waukesha","state":"Wisconsin","fips":55133,"sulfur":71.01158181999999,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345e0"},"name":"Dane","state":"Wisconsin","fips":55025,"sulfur":1540.0183052483,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345e1"},"name":"Sheboygan","state":"Wisconsin","fips":55117,"sulfur":14127.6998175,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345e2"},"name":"La Crosse","state":"Wisconsin","fips":55063,"sulfur":150.4057050992,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345e3"},"name":"Racine","state":"Wisconsin","fips":55101,"sulfur":165.58734067499998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345e4"},"name":"Walworth","state":"Wisconsin","fips":55127,"sulfur":514.576357735,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345e5"},"name":"Rock","state":"Wisconsin","fips":55105,"sulfur":11.06847675,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345e6"},"name":"Barron","state":"Wisconsin","fips":55005,"sulfur":30.1107263,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345e7"},"name":"Price","state":"Wisconsin","fips":55099,"sulfur":154.60304449999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345e8"},"name":"Calumet","state":"Wisconsin","fips":55015,"sulfur":14.333866,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345e9"},"name":"Ozaukee","state":"Wisconsin","fips":55089,"sulfur":25.18752755,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345ea"},"name":"Oconto","state":"Wisconsin","fips":55083,"sulfur":1.1202097,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345eb"},"name":"Green Lake","state":"Wisconsin","fips":55047,"sulfur":14.04175,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345ec"},"name":"Vernon","state":"Wisconsin","fips":55123,"sulfur":3296.2697835,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345ed"},"name":"Sweetwater","state":"Wyoming","fips":56037,"sulfur":20372.316,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345ee"},"name":"Park","state":"Wyoming","fips":56029,"sulfur":1257.2109999999998,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345ef"},"name":"Niobrara","state":"Wyoming","fips":56027,"sulfur":8.725,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345f0"},"name":"Teton","state":"Wyoming","fips":56039,"sulfur":20.1061709019,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345f1"},"name":"Washakie","state":"Wyoming","fips":56043,"sulfur":72.149,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345f2"},"name":"Goshen","state":"Wyoming","fips":56015,"sulfur":183.77,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345f3"},"name":"Natrona","state":"Wyoming","fips":56025,"sulfur":297.48710317539997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345f4"},"name":"Sheridan","state":"Wyoming","fips":56033,"sulfur":56.720632792,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345f5"},"name":"Converse","state":"Wyoming","fips":56009,"sulfur":11363.76521,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345f6"},"name":"Crook","state":"Wyoming","fips":56011,"sulfur":152.2,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345f7"},"name":"Laramie","state":"Wyoming","fips":56021,"sulfur":294.15274999999997,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345f8"},"name":"Hot Springs","state":"Wyoming","fips":56017,"sulfur":4,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345f9"},"name":"Sublette","state":"Wyoming","fips":56035,"sulfur":161.002299,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345fa"},"name":"Uinta","state":"Wyoming","fips":56041,"sulfur":79.76184,"nox":0,"voc":0,"__v":0}
+{"_id":{"$oid":"562b47a774cfdab8496345fb"},"name":"Weston","state":"Wyoming","fips":56045,"sulfur":325.11,"nox":0,"voc":0,"__v":0}
