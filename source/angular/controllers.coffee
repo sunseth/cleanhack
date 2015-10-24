@@ -33,11 +33,11 @@ module.exports = (app) ->
         d3.select("g").attr("transform", "scale(" + d3.event.scale + ")")
 
       color_domain = [100, 3000]
-      ext_color_domain = [0, 500, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000, 5500, 6000]
-      legend_labels = ["< 500", "500+", "1000+", "1500+", "2000+", "2500+", "3000+", "3500+", "4000+", "4500+", "5000+", "5500+", "6000+"]
-      color = d3.scale.threshold()
+      ext_color_domain = [100, 500, 1000, 1500, 2500, 5000]
+      legend_labels = ["100", "500", "1000", "1500", "2500", "5000 (tons)"]
+      color = d3.scale.quantize()
       .domain(color_domain)
-      .range(["#ea9999", "#e57f7f", "#e06666", "#db4c4c", "#d63232", "#cc0000", "#7a0000"])
+      .range(["#ea9999", "#e57f7f", "#e06666", "#db4c4c", "#d63232", "#cc0000"])
 
       div = d3.select(".main").append("div")
       .attr("class", "tooltip")
@@ -134,18 +134,12 @@ module.exports = (app) ->
               }
             @$http(req(county.name, "Sulfur Dioxide"))
               .then((response) =>
-                console.log 'sulfur'
-                console.log response.data
                 @$scope.maxSul = response.data
                 @$http(req(county.name, "Nitrogen Oxides"))
                   .then((response1) =>
-                    console.log 'nox'
-                    console.log response1.data
                     @$scope.maxNox = response1.data
                     @$http(req(county.name, "Volatile Organic Compounds"))
                       .then((response2) =>
-                        console.log 'voc'
-                        console.log response2.data
                         @$scope.maxVoc = response2.data
                       , (err) ->
                         console.log err
