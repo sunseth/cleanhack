@@ -77,7 +77,7 @@ module.exports = (app) ->
           pairTonsWithFips[fips] = county.sulfur + county.nox + county.voc
           pairNameWithFips[fips] = county.name
 
-        svg.append("g")
+        g = svg.append("g")
         .attr("class", "county")
         .selectAll("path")
         .data(topojson.feature(us, us.objects.counties).features)
@@ -86,7 +86,9 @@ module.exports = (app) ->
         .style("fill", (d) =>
           return color(pairTonsWithFips[d.id]) || "#f9e5e5"
         )
-        .call(d3.behavior.zoom().on("zoom", redraw))
+        .call(d3.behavior.zoom().on("zoom", () ->
+          g.attr("transform", "translate(" + d3.event.translate + ")" + " scale(" + d3.event.scale + ")")
+        ))
         .on("click", (d) =>
           @$scope.$apply(() =>
             county = @$scope.countiesByFips[d.id]

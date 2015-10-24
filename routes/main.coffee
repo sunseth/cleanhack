@@ -16,8 +16,6 @@ module.exports = (app) ->
     body = JSON.parse(_.keys(req.body)[0])
     {county} = body
     {type} = body
-    console.log county, type, body
-
 
     Emission.find({County: county, Pollutant: type}).sort({ "Emissions in Tons": -1 }).exec (err, emissions) ->
       console.log err if err
