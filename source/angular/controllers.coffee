@@ -18,16 +18,15 @@ module.exports = (app) ->
             console.log err
           )
     createMap: () ->
-      console.log 'creating!'
       width = 960
-      height = 600
+      height = 900
 
-      color_domain = [1, 10000]
+      color_domain = [5, 1000]
       ext_color_domain = [0, 500, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000, 5500, 6000]
       legend_labels = ["< 500", "500+", "1000+", "1500+", "2000+", "2500+", "3000+", "3500+", "4000+", "4500+", "5000+", "5500+", "6000+"]
-      color = d3.scale.quantize()
+      color = d3.scale.threshold()
       .domain(color_domain)
-      .range(["#cc0000"])
+      .range(["#f4cccc", "#efb2b2", "#ea9999", "#e57f7f", "#e06666", "#db4c4c", "#d63232", "#d11919", "#cc0000"])
 
       div = d3.select(".main").append("div")
       .attr("class", "tooltip")
@@ -36,15 +35,16 @@ module.exports = (app) ->
       svg = d3.select(".main").append("svg")
       .attr("width", width)
       .attr("height", height)
-      .style("margin", "10px auto");
+      .style("margin", "10px auto")
+
       path = d3.geo.path()
 
       ready = (error, us) =>
         pairTonsWithFips = {}
         pairNameWithFips = {}
         for county in @$scope.counties
-          fips = county.fips
-          pairTonsWithFips[fips] = county.sulfur
+          fips = +county.fips
+          pairTonsWithFips[fips] = county.sulfur + county.nox
           pairNameWithFips[fips] = county.name
 
         svg.append("g")
@@ -54,12 +54,11 @@ module.exports = (app) ->
         .enter().append("path")
         .attr("d", path)
         .style("fill", (d) ->
-          console.log color(pairTonsWithFips[d.id])
-          return color(pairTonsWithFips[d.id])
+          return color(pairTonsWithFips[d.id]) || "#f9e5e5"
         )
-        .on("mouseover", (d) ->
+        .on("mouseover", (d) =>
+          console.log d.id
           @$scope.current = d.id
-          console.log @$scope.current
         )
 
       queue()

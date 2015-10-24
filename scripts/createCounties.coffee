@@ -29,9 +29,9 @@ Emission.find({}).limit().exec (err, emissions) ->
       }
       if (emission["Pollutant"] == "Sulfur Dioxide")
         counties[name]["sulfur"] += emission["Emissions in Tons"]
-      else if (emission["Pollutant"] == "NOX")
+      else if (emission["Pollutant"] == "Nitrogen Oxides")
         counties[name]["nox"] += emission["Emissions in Tons"]
-      else if (emission["Pollutant"] == "VOC")
+      else if (emission["Pollutant"] == "Volatile Organic Compounds")
         counties[name]["voc"] += emission["Emissions in Tons"]
       console.log name
       eCb(null)
