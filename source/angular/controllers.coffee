@@ -32,7 +32,7 @@ module.exports = (app) ->
       legend_labels = ["< 500", "500+", "1000+", "1500+", "2000+", "2500+", "3000+", "3500+", "4000+", "4500+", "5000+", "5500+", "6000+"]
       color = d3.scale.threshold()
       .domain(color_domain)
-      .range(["#ea9999", "#e57f7f", "#e06666", "#db4c4c", "#d63232", "#d11919", "#cc0000"])
+      .range(["#ea9999", "#e57f7f", "#e06666", "#db4c4c", "#d63232", "#cc0000", "#7a0000"])
 
       div = d3.select(".main").append("div")
       .attr("class", "tooltip")
@@ -66,12 +66,37 @@ module.exports = (app) ->
           @$scope.$apply(() =>
             county = @$scope.countiesByFips[d.id]
             return unless county
+
+            total = county.sulfur + county.nox + county.voc
+            data = [{key:"SO2", y: county.sulfur/total},
+            {key:"NOX", y: county.nox/total},
+            {key:"VOC", y: county.voc/total}]
+            height = 350
+            width = 350
+
+            nv.addGraph(() ->
+              chart = nv.models.pieChart()
+                .x((d) -> return d.key)
+                .y((d) -> return d.y)
+                .color(d3.scale.category20().range().slice(3))
+                .growOnHover(false)
+                .labelType('value')
+                .width(width)
+                .height(height)
+              chart.pie.donutLabelsOutside(true).donut(true)
+
+              d3.select("#test2")
+                .datum(data)
+                .transition().duration(1200)
+                .attr('width', width)
+                .attr('height', height)
+                .call(chart)
+
+              return chart
+            )
+
             @$scope.showStats = true
             @$scope.current = county
-            @$scope.stats = [{"label": "sulfur dioxide", "value": Math.round(county.sulfur)},
-             {"label": "nitrogen oxide", "value": Math.round(county.nox)},
-             {"label": "volatile organic compounds", "value": Math.round(county.voc)}
-            ]
           )
         )
 

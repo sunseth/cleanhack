@@ -33,12 +33,13 @@
       <div class="ui center aligned two column page grid">
         <div class="column">
           <div class="ui segment" ng-if="showStats">
+            <svg id="test2" class="mypiechart"></svg>
           </div>
         </div>
         <div class="column">
           <div class="ui center aligned segment" ng-if="showStats">
             <div class="ui huge header">{{current.name}} county in {{current.state}}</div>
-            <div class="ui divider">
+            <div class="ui divider donut">
             </div>
             <br>
             <div class="ui three statistics">
