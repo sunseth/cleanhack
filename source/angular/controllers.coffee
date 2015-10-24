@@ -6,7 +6,7 @@ module.exports = (app) ->
       @$scope.counties = null
       @$scope.countiesByFips = null
       @$scope.current = null
-      @$scope.maxSulfur = null
+      @$scope.maxSul = null
       @$scope.maxNox = null
       @$scope.maxVoc = null
       @$scope.showStats = false
@@ -101,20 +101,39 @@ module.exports = (app) ->
             @$scope.showStats = true
             @$scope.current = county
 
-            # req = (county, type) ->
-            #   return {
-            #     method: 'POST',
-            #     url: '/offender',
-            #     headers: {
-            #       'Content-Type': undefined
-            #     },
-            #     data: {county: county, type: type}
-            #   }
-            # @$http(req(county.name, "Sulfur Dioxide"))
-            #   .then((response) ->
-
-            #   , (err) ->
-            #   )
+            req = (county, type) ->
+              return {
+                method: 'POST',
+                url: '/offender',
+                headers: {
+                  'Content-Type': 'application/x-www-form-urlencoded'
+                },
+                data: {county: county, type: type}
+              }
+            @$http(req(county.name, "Sulfur Dioxide"))
+              .then((response) =>
+                console.log 'sulfur'
+                console.log response.data
+                @$scope.maxSul = response.data
+                @$http(req(county.name, "Nitrogen Oxides"))
+                  .then((response1) =>
+                    console.log 'nox'
+                    console.log response1.data
+                    @$scope.maxNox = response1.data
+                    @$http(req(county.name, "Volatile Organic Compounds"))
+                      .then((response2) =>
+                        console.log 'voc'
+                        console.log response2.data
+                        @$scope.maxVoc = response2.data
+                      , (err) ->
+                        console.log err
+                    )
+                  , (err) ->
+                    console.log err
+                )
+              , (err) ->
+                console.log err
+            )
           )
         )
 
