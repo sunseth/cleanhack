@@ -33,7 +33,7 @@ Emission.find({}).limit().exec (err, emissions) ->
         counties[name]["nox"] += emission["Emissions in Tons"]
       else if (emission["Pollutant"] == "VOC")
         counties[name]["voc"] += emission["Emissions in Tons"]
-
+      console.log name
       eCb(null)
     )
   , (err) ->

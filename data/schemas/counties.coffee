@@ -4,7 +4,7 @@ Schema = mongoose.Schema
 CountySchema = new Schema(
   name: String,
   state: String,
-  fips: Number,
+  fips: String,
   sulfur: Number,
   voc: Number,
   nox: Number
