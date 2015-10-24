@@ -29,6 +29,8 @@ module.exports = (app) ->
     createMap: () =>
       width = 960
       height = 500
+      redraw = () ->
+        d3.select("g").attr("transform", "scale(" + d3.event.scale + ")")
 
       color_domain = [100, 3000]
       ext_color_domain = [0, 500, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000, 5500, 6000]
@@ -65,6 +67,7 @@ module.exports = (app) ->
         .style("fill", (d) =>
           return color(pairTonsWithFips[d.id]) || "#f9e5e5"
         )
+        .call(d3.behavior.zoom().on("zoom", redraw))
         .on("click", (d) =>
           @$scope.$apply(() =>
             county = @$scope.countiesByFips[d.id]
