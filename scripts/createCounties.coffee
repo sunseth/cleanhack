@@ -4,7 +4,7 @@ _ = require 'lodash'
 
 {Emission, County} = require '../data'
 
-Emission.find({}).limit().exec (err, emissions) ->
+Emission.find({}).exec (err, emissions) ->
   console.log(err) if err
   console.log("no emissions") unless emissions.length > 0
 

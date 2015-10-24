@@ -23,13 +23,28 @@
       </div>
     </div>
 
-    <div class="ui fitted basic segment">
+    <div class="ui fitted basic center aligned segment">
       <div class="ui center aligned one column page grid">
         <div class="column main">
+          <h1 class="ui header">
+            <div class="content">
+              Emissions Choropleth by County - 2011
+              <div class="sub header">Click on a county to learn more!</div>
+            </div>
+          </h1>
         </div>
       </div>
     </div>
-    <div class="ui fitted basic segment">
+    <div class="ui fitted basic center aligned segment">
+      <h1 class="ui icon header" ng-show="showStats">
+        <i class="database icon"></i>
+        <div class="content">
+          Statistics
+          <div class="sub header">Let's get those numbers down!</div>
+        </div>
+      </h1>
+      <div class="ui divider">
+      </div>
       <div class="ui center aligned two column page grid">
         <div class="column">
           <div class="ui segment" ng-if="showStats">
@@ -69,6 +84,11 @@
               </div>
             </div>
             <br>
+            <div class="ui divider">
+            </div>
+            <div>
+
+            </div>
           </div>
         </div>
       </div>

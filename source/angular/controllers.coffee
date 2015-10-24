@@ -6,6 +6,9 @@ module.exports = (app) ->
       @$scope.counties = null
       @$scope.countiesByFips = null
       @$scope.current = null
+      @$scope.maxSulfur = null
+      @$scope.maxNox = null
+      @$scope.maxVoc = null
       @$scope.showStats = false
       @$scope.stats = null
       @getCounties()
@@ -25,7 +28,7 @@ module.exports = (app) ->
           )
     createMap: () =>
       width = 960
-      height = 540
+      height = 500
 
       color_domain = [100, 3000]
       ext_color_domain = [0, 500, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000, 5500, 6000]
@@ -80,7 +83,7 @@ module.exports = (app) ->
                 .y((d) -> return d.y)
                 .color(d3.scale.category20().range().slice(3))
                 .growOnHover(false)
-                .labelType('value')
+                .labelType('percent')
                 .width(width)
                 .height(height)
               chart.pie.donutLabelsOutside(true).donut(true)
@@ -97,6 +100,21 @@ module.exports = (app) ->
 
             @$scope.showStats = true
             @$scope.current = county
+
+            # req = (county, type) ->
+            #   return {
+            #     method: 'POST',
+            #     url: '/offender',
+            #     headers: {
+            #       'Content-Type': undefined
+            #     },
+            #     data: {county: county, type: type}
+            #   }
+            # @$http(req(county.name, "Sulfur Dioxide"))
+            #   .then((response) ->
+
+            #   , (err) ->
+            #   )
           )
         )
 

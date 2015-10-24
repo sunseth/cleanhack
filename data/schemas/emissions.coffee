@@ -11,6 +11,7 @@ EmissionSchema = new Schema(
   "Source Type": String,
   "Emissions in Tons": Number,
   "Year": Number
+  "County": String
 )
 
 module.exports = EmissionSchema
