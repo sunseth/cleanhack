@@ -32,8 +32,43 @@
     <div class="ui fitted basic segment">
       <div class="ui center aligned two column page grid">
         <div class="column">
+          <div class="ui segment" ng-if="showStats">
+          </div>
         </div>
         <div class="column">
+          <div class="ui center aligned segment" ng-if="showStats">
+            <div class="ui huge header">{{current.name}} county in {{current.state}}</div>
+            <div class="ui divider">
+            </div>
+            <br>
+            <div class="ui three statistics">
+              <div class="statistic">
+                <div class="value">
+                  {{current.sulfur | number:0}}
+                </div>
+                <div class="label">
+                  tons SO<sub>2</sub>
+                </div>
+              </div>
+              <div class="statistic">
+                <div class="value">
+                  {{current.nox | number:0}}
+                </div>
+                <div class="label">
+                  tons NO + NO<sub>2</sub>
+                </div>
+              </div>
+              <div class="statistic">
+                <div class="value">
+                  {{current.voc | number:0}}
+                </div>
+                <div class="label">
+                  tons VOC's
+                </div>
+              </div>
+            </div>
+            <br>
+          </div>
         </div>
       </div>
     </div>
