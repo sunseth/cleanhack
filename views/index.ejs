@@ -23,7 +23,7 @@
       </div>
     </div>
 
-    <div class="ui fitted basic center aligned segment">
+    <div class="ui fitted basic center aligned segment" style="margin-bottom:0px">
       <div class="ui center aligned one column page grid">
         <div class="column main">
           <h1 class="ui header">
@@ -35,7 +35,7 @@
         </div>
       </div>
     </div>
-    <div class="ui fitted basic center aligned segment">
+    <div class="ui fitted basic center aligned segment" style="margin-top:0px">
       <h1 class="ui icon header" ng-show="showStats">
         <i class="database icon"></i>
         <div class="content">
@@ -86,8 +86,51 @@
             <br>
             <div class="ui divider">
             </div>
+            <div class="ui huge header">Top Emissions Offenders</div>
+            <br>
             <div>
-
+              <table class="ui very basic collapsing selectable celled table">
+                <thead>
+                  <tr><th>Facility</th>
+                  <th>Location</th>
+                  <th>Emissions</th>
+                </tr></thead>
+                <tbody>
+                  <tr>
+                    <td>
+                      {{maxSul["Facility Name"]}}
+                    </td>
+                    <td>
+                      {{maxSul["Facility Address"]}}
+                    </td>
+                    <td>
+                      {{maxSul["Emissions in Tons"].toFixed(0)}} tons SO2
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      {{maxNox["Facility Name"]}}
+                    </td>
+                    <td>
+                      {{maxNox["Facility Address"]}}
+                    </td>
+                    <td>
+                      {{maxNox["Emissions in Tons"].toFixed(0)}} tons NOx
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      {{maxVoc["Facility Name"]}}
+                    </td>
+                    <td>
+                      {{maxVoc["Facility Address"]}}
+                    </td>
+                    <td>
+                      {{maxVoc["Emissions in Tons"].toFixed(0)}} tons VOC
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
         </div>
