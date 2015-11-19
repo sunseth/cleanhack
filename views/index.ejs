@@ -89,7 +89,7 @@
             <div class="ui huge header">Top Emissions Offenders</div>
             <br>
             <div>
-              <table class="ui very basic collapsing selectable celled table">
+              <table class="ui very basic collapsing selectable celled table" style="margin">
                 <thead>
                   <tr><th>Facility</th>
                   <th>Location</th>
@@ -98,35 +98,35 @@
                 <tbody>
                   <tr>
                     <td>
-                      {{maxSul["Facility Name"]}}
+                      <p>{{maxSul["Facility Name"]}}</p>
                     </td>
                     <td>
-                      {{maxSul["Facility Address"]}}
+                      <p>{{maxSul["Facility Address"]}}</p>
                     </td>
                     <td>
-                      {{maxSul["Emissions in Tons"].toFixed(0)}} tons SO2
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      {{maxNox["Facility Name"]}}
-                    </td>
-                    <td>
-                      {{maxNox["Facility Address"]}}
-                    </td>
-                    <td>
-                      {{maxNox["Emissions in Tons"].toFixed(0)}} tons NOx
+                      <p ng-show='maxSul["Emissions in Tons"]'>{{maxSul["Emissions in Tons"].toFixed(0)}} tons SO2</p>
                     </td>
                   </tr>
                   <tr>
                     <td>
-                      {{maxVoc["Facility Name"]}}
+                      <p>{{maxNox["Facility Name"]}}</p>
                     </td>
                     <td>
-                      {{maxVoc["Facility Address"]}}
+                      <p>{{maxNox["Facility Address"]}}</p>
                     </td>
                     <td>
-                      {{maxVoc["Emissions in Tons"].toFixed(0)}} tons VOC
+                      <p ng-show='maxNox["Emissions in Tons"]'>{{maxNox["Emissions in Tons"].toFixed(0)}} tons NOx</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>{{maxVoc["Facility Name"]}}</p>
+                    </td>
+                    <td>
+                      <p>{{maxVoc["Facility Address"]}}</p>
+                    </td>
+                    <td>
+                      <p ng-show='maxVoc["Emissions in Tons"]'>{{maxVoc["Emissions in Tons"].toFixed(0)}} tons VOC</p>
                     </td>
                   </tr>
                 </tbody>

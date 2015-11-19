@@ -31,7 +31,7 @@
 }
 .ui.dimmer
 {
-  background: rgba(0, 0, 0, 0.4) !important;
+  background: rgba(0, 0, 0, 0.2) !important;
 }
 .no-border {
   border: none !important;
